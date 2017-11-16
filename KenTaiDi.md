@@ -28,7 +28,6 @@ Stand: Volk, Glaube: LiChia, Spezialisierung: Dolch
 
 **AP**  44
 
-<div style="page-break-after: always;"></div>
 ## Fertigkeiten
 | Fertigkeit                            | Bonus | Erfolgswert | Praxispunkte |
 | ------------------------------------- | :---: | :---------: | :----------: |
