@@ -3,6 +3,7 @@
 Geburtsdatum: 11.08.2370, rechtshändig, Spezies: Mensch  
 Größe: 194cm (groß), Gewicht: 97kg (normal)  
 Stand: Volk, Glaube: LiChia, Spezialisierung: Dolch  
+
 ## Stammdaten
 |  St  |  Gs  |  Gw  |  Ko  |  In  |  Zt  |
 | :--: | :--: | :--: | :--: | :--: | :--: |
@@ -121,34 +122,60 @@ Stand: Volk, Glaube: LiChia, Spezialisierung: Dolch
 
 ## Zaubersprüche
 
-**Heilen von Wunden (DY)**
+**Heilen von Wunden (DY)**  
 *Heilt 1W6 LP und AP*  
-Art: Geste, Stufe: 2, AP: 3, WM: 0, Zauberdauer: 10min, Reichweite: Berührung, Wirkungsziel: Körper, Wirkungsbereich: Wesen, Wirkungsdauer: -, Ursprung: druidisch, Erschaffen : Holz => Erde  
+Art: Geste, Stufe: 2, AP: 3, WM: 0, Zauberdauer: 10m, Reichweite: Berührung, Wirkungsziel: Körper, Wirkungsbereich: Wesen, Wirkungsdauer: 0, Ursprung: druidisch, Erschaffen : Holz => Erde  
 Material (1GS):
 
-**Handauflegen**
+**Handauflegen**  
 *Heilt 1W6 AP*  
-Art: Geste, Stufe: 1, AP: 2, WM: 0, Zauberdauer: 10min, Reichweite: Berührung, Wirkungsziel: Körper, Wirkungsbereich: Wesen, Wirkungsdauer: -, Ursprung: druidisch, Erschaffen : Holz => Feuer  
+Art: Geste, Stufe: 1, AP: 2, WM: 0, Zauberdauer: 10m, Reichweite: Berührung, Wirkungsziel: Körper, Wirkungsbereich: Wesen, Wirkungsdauer: 0, Ursprung: druidisch, Erschaffen : Holz => Feuer  
 Material (1GS):
 
-**Heiliger Zorn**
+**Heiliger Zorn**  
 *Stärke +30, Schaden +1, Raufen +2*  
 Art: Gedanken, Stufe: 1, AP: 1, WM: -2, Zauberdauer: 1sek, Reichweite: -, Wirkungsziel: Körper, Wirkungsbereich: Zauberer, Wirkungsdauer: 2min, Ursprung: göttlich, Verändern : Luft => Erde
 
-**Rauchwolke**
-*Sichtweite 3m / 1m, Husten 1W6-2AP PW:Gift, B6*
-Art: Geste, Stufe: 2, AP: 2, WM: -2, Zauberdauer: 5sek, Reichweite: 30m, Wirkungsziel: Umgebung, Wirkungsbereich: 9m Umkreis, Wirkungsdauer: 10min, Ursprung: elementar, Verändern : Feuer => Luft  
+**Rauchwolke**  
+*Sichtweite 3m / 1m, Husten 1W6-2AP PW:Gift, B6*  
+Art: Geste, Stufe: 2, AP: 2, WM: -2, Zauberdauer: 5sek, Reichweite: 30m, Wirkungsziel: Umgebung, Wirkungsbereich: 9m Umkreis, Wirkungsdauer: 10m, Ursprung: elementar, Verändern : Feuer => Luft  
 Material (Asche und Zunder 1SS):
 
+**Erkennen von Krankheit**  
+*Erkennt, ob Lebewesen krank ist und ob ansteckend. Erkennt Lebensgefahr. Ansteckung bei PW-30: Gift*  
+Art: Gedanken, Stufe: 1, AP: 1, WM: 0, Zauberdauer: 10m, Reichweite: Berührung, Wirkungsziel: Geist, Wirkungsbereich: Wesen, Wirkungsdauer: 0, Ursprung: druidisch, Erkennen : Magan => Eis  
 
-**Erkennen von Krankheit**
-
-**Heilen von Krankheit**
+**Heilen von Krankheit**  
+*Heilt natürliche und magische Krankheiten. Beendet Fortschreiten der Krankheit. Nur ein Versuch.*  
+Art: Geste, Stufe: 2, AP: 2, WM: 0, Zauberdauer: 10m, Reichweite: Berührung, Wirkungsziel: Körper, Wirkungsbereich: Wesen, Wirkungsdauer: 0, Ursprung: druidisch, Erschaffen : Holz => Erde  
+Material (1GS):
 
 **Heilen schwerer Wunden**
+*2W6 LP und AP, nur alle drei Tage pro Abenteurer.*  
+Art: Geste, Stufe: 3, AP: 4, WM: 0, Zauberdauer: 10m, Reichweite: Berührung, Wirkungsziel: Körper, Wirkungsbereich: Wesen, Wirkungsdauer: 0, Ursprung: druidisch, Erschaffen : Holz => Erde  
+Material (1GS):
 
-**Bannen von Gift**
+**Bannen von Gift**  
+*Beschreibung...*  
+*2W6 LP und AP, nur alle drei Tage pro Abenteurer.*  
+Art: Geste, Stufe: 2, AP: 4, WM: 0, Zauberdauer: 10m, Reichweite: Berührung, Wirkungsziel: Körper, Wirkungsbereich: Wesen, Wirkungsdauer: 0, Ursprung: druidisch, Zerstören : Holz => Eis  
+Material (1GS):
 
-**Seelenheilung**
+**Seelenheilung**  
+*Beschreibung...*  
+Art: Geste, Stufe: 2, AP: 2, WM: 0, Zauberdauer: 10m, Reichweite: Berührung, Wirkungsziel: Geist, Wirkungsbereich: Wesen, Wirkungsdauer: 0, Ursprung: göttlich, Verändern : Holz => Luft  
+Material (1GS):
 
-**Besänftigen**
+**Besänftigen**  
+*Beschreibung...*  
+Art: Wort, Stufe: 2, AP: 1/Grad, WM: -2, Zauberdauer: 5s, Reichweite: 30m, Wirkungsziel: Geist, Wirkungsbereich: 1 Wesen pro Grad, Wirkungsdauer: 0, Ursprung: göttlich, Beherrschen : Wasser => Wasser  
+
+**Reinigen**  
+*Beschreibung...*  
+
+**Entgiften**  
+*Beschreibung...*  
+
+**Hören der Geister**  
+*Beschreibung...*  
+
