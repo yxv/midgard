@@ -13,21 +13,21 @@ Stand: Volk, Glaube: LiChia, Spezialisierung: Dolch
 | :--: | :--: | :--: | :--: | :--: | :--: |
 |  19  |  51  |  6   |  90  |  62  |  26  |
 
-**Last**  Normal 20kg  Höchst 75kg Schub 150kg
+**Last** Normal 20kg, Höchst 75kg, Schub 150kg
 
-**Angeborene Fertigkeiten**  Sehen +8, Hören +8, Riechen +8, Schmecken +8, Tasten +8, Sechster Sinn +4, Raufen +8, Spucken +12, Nachtsicht +8
+**Angeborene Fertigkeiten** Sehen +8, Hören +8, Riechen +8, Schmecken +8, Tasten +8, Sechster Sinn +4, Raufen +8, Spucken +12, Nachtsicht +8
 
-**Abwehr**     +14   Bonus 0   => 14   (+1 Blutsbruder => +15)
+**Abwehr** +14 Bonus +0 (+1 Blutsbruder) => +14 (+15)
 
-**Resistenz**  +13   Bonus 3/5/0   => +16/+18/+13   (Geist/Körper/Umgebung)
+**Resistenz** +13 Bonus +3/+5/+0 => +16/+18/+13 (Geist/Körper/Umgebung)
 
-**Zaubern**    +17   Bonus 4   => +21
+**Zaubern** +17 Bonus +4 => +21
 
-**Boni**       Ausdauer +3   Schaden +3   Angriff +0   Göttliche Gnade 3   Schicksalsgunst 8
+**Boni** Ausdauer +3   Schaden +3   Angriff +0   Göttliche Gnade 3   Schicksalsgunst 8
 
-**LP**  15
+**LP** 15
 
-**AP**  44
+**AP** 44
 
 ## Fertigkeiten
 | Fertigkeit                            | Bonus | Erfolgswert | Praxispunkte |
@@ -150,7 +150,7 @@ Art: Gedanken, Stufe: 1, AP: 1, WM: 0, Zauberdauer: 10m, Reichweite: Berührung,
 Art: Geste, Stufe: 2, AP: 2, WM: 0, Zauberdauer: 10m, Reichweite: Berührung, Wirkungsziel: Körper, Wirkungsbereich: Wesen, Wirkungsdauer: 0, Ursprung: druidisch, Erschaffen : Holz => Erde  
 Material (1GS):
 
-**Heilen schwerer Wunden**
+**Heilen schwerer Wunden**  
 *2W6 LP und AP, nur alle drei Tage pro Abenteurer.*  
 Art: Geste, Stufe: 3, AP: 4, WM: 0, Zauberdauer: 10m, Reichweite: Berührung, Wirkungsziel: Körper, Wirkungsbereich: Wesen, Wirkungsdauer: 0, Ursprung: druidisch, Erschaffen : Holz => Erde  
 Material (1GS):
@@ -168,7 +168,7 @@ Material (1GS):
 
 **Besänftigen**  
 *Beschreibung...*  
-Art: Wort, Stufe: 2, AP: 1/Grad, WM: -2, Zauberdauer: 5s, Reichweite: 30m, Wirkungsziel: Geist, Wirkungsbereich: 1 Wesen pro Grad, Wirkungsdauer: 0, Ursprung: göttlich, Beherrschen : Wasser => Wasser  
+Art: Wort, Stufe: 2, AP: 1/Grad, WM: -2, Zauberdauer: 5s, Reichweite: 30m, Wirkungsziel: Geist, Wirkungsbereich: Wesen pro Grad, Wirkungsdauer: 0, Ursprung: göttlich, Beherrschen : Wasser => Wasser  
 
 **Reinigen**  
 *Beschreibung...*  
