@@ -13,17 +13,17 @@ Stand: Volk, Glaube: LiChia, Spezialisierung: Dolch
 | :--: | :--: | :--: | :--: | :--: | :--: |
 |  19  |  51  |  6   |  90  |  62  |  26  |
 
-**Last** Normal 20kg, Höchst 75kg, Schub 150kg
-
 **Angeborene Fertigkeiten** Sehen +8, Hören +8, Riechen +8, Schmecken +8, Tasten +8, Sechster Sinn +4, Raufen +8, Spucken +12, Nachtsicht +8
+
+**Last** Normal 20kg, Höchst 75kg, Schub 150kg
 
 **Abwehr** +14 Bonus +0 (+1 Blutsbruder) => +14 (+15)
 
-**Resistenz** +13 Bonus +3/+5/+0 => +16/+18/+13 (Geist/Körper/Umgebung)
+**Resistenz** +13 Bonus +3 / +5 / +0 => +16 / +18 / +13 (Geist / Körper / Umgebung)
 
 **Zaubern** +17 Bonus +4 => +21
 
-**Boni** Ausdauer +3   Schaden +3   Angriff +0   Göttliche Gnade 3   Schicksalsgunst 8
+**Boni** Ausdauer +3  Schaden +3  Angriff +0   Göttliche Gnade 3   Schicksalsgunst 8
 
 **LP** 15
 
@@ -31,7 +31,7 @@ Stand: Volk, Glaube: LiChia, Spezialisierung: Dolch
 
 ## Fertigkeiten
 | Fertigkeit                            | Bonus | Erfolgswert | Praxispunkte |
-| ------------------------------------- | :---: | :---------: | :----------: |
+| ------------------------------------- | :---: | :---------: | :----------- |
 | Akrobatik                             |       |    +(8)     |              |
 | Balancieren                           |       |     +12     |              |
 | Baukunde                              |  +1   |     +7      |              |
@@ -45,18 +45,18 @@ Stand: Volk, Glaube: LiChia, Spezialisierung: Dolch
 | Fangen                                |       |    +(8)     |              |
 | Geheimmechanismus öffnen              |       |    +(1)     |              |
 | Geheimzeichen (weißer Lotus)          |  +1   |     +7      |              |
-| Geländelauf                           |       |     +13     |              |
+| Geländelauf                           |       |     +13     | +            |
 | Geschenke machen                      |  -2   |    +(3)     |              |
 | Giftmischen                           |  +1   |     +7      |              |
 | Heilkunde                             |  +1   |     +13     |              |
 | Himmelskunde                          |  +1   |     +13     |              |
 | Kamelreiten                           |       |     +10     |              |
-| Kampftaktik                           |  -2   |     +10     |              |
+| Kampftaktik                           |  -2   |     +10     | +            |
 | Kanthanische Schrift (Kanzleischrift) |  +1   |     +13     |              |
 | Kenntnis der 5 Klassiker              |  +1   |     +11     |              |
 | Klettern                              |  +1   |     +14     |              |
 | Kräuterkunde                          |  +1   |     +6      |              |
-| Landeskunde KTP Ost                   |  +1   |     +12     |              |
+| Landeskunde KTP Ost                   |  +1   |     +12     | ++           |
 | Laufen                                |       |     +4      |              |
 | Lesen / Schreiben Aranisch            |  +1   |     +10     |              |
 | Lesen / Schreiben Rawindi             |  +1   |     +10     |              |
@@ -109,16 +109,21 @@ Stand: Volk, Glaube: LiChia, Spezialisierung: Dolch
 **Grundkenntnisse**  Stichwaffen, Kampfstab
 
 | Fertigkeit    | Bonus | Erfolgswert | Praxispunkte |
-| ------------- | :---: | :---------: | :----------: |
-| BoStab        |       |             |              |
-| Dolch / Tanto |       |             |              |
+| ------------- | :---: | :---------: | :----------- |
+| BoStab        |       |     +6      |              |
+| Dolch / Tanto |       |     +13     | ++           |
 
 ## Waffen
 
-- waffenloser Kampf
-- Tanto (Dolch)
-- BoStab
-- Magischer Dolch
+**Rüstung** Lederrüstung
+
+|       Waffe       | Angriff | Schaden |  WR  |
+| :---------------: | :-----: | :-----: | :--: |
+| waffenloser Kampf |  +(4)   |  1W6-1  |  +2  |
+|   Tanto (Dolch)   |   +13   |  1W6+2  |  +2  |
+|      BoStab       |   +6    |  1W6+3  |  +2  |
+|  Magischer Dolch  |   +14   |  1W6+3  |  +2  |
+
 
 ## Zaubersprüche
 
