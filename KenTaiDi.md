@@ -122,60 +122,65 @@ Stand: Volk, Glaube: LiChia, Spezialisierung: Dolch
 
 ## Zaubersprüche
 
-**Heilen von Wunden (DY)**  
+**Heilen von Wunden (DY)** - Gestenzauber der Stufe 2 - Erschaffen : Holz => Erde  
 *Heilt 1W6 LP und AP*  
-Art: Geste, Stufe: 2, AP: 3, WM: 0, Zauberdauer: 10m, Reichweite: Berührung, Wirkungsziel: Körper, Wirkungsbereich: Wesen, Wirkungsdauer: 0, Ursprung: druidisch, Erschaffen : Holz => Erde  
+AP: 3, WM: 0, Zauberdauer: 10min, Reichweite: Berührung, Wirkungsziel: Körper, Wirkungsbereich: 1 Wesen, Wirkungsdauer: 0, Ursprung: druidisch  
 Material (1GS):
 
-**Handauflegen**  
-*Heilt 1W6 AP*  
-Art: Geste, Stufe: 1, AP: 2, WM: 0, Zauberdauer: 10m, Reichweite: Berührung, Wirkungsziel: Körper, Wirkungsbereich: Wesen, Wirkungsdauer: 0, Ursprung: druidisch, Erschaffen : Holz => Feuer  
+**Handauflegen (DY)** - Gestenzauber der Stufe 1 - Erschaffen : Holz => Feuer  
+*Heilt 1W6 AP. Eine Person kann nur einmal am tag neue Kraft erhalten.*  
+AP: 2, WM: 0, Zauberdauer: 10min, Reichweite: Berührung, Wirkungsziel: Körper, Wirkungsbereich: 1 Wesen, Wirkungsdauer: 0, Ursprung: druidisch  
 Material (1GS):
 
-**Heiliger Zorn**  
+**Heiliger Zorn** - Gedankenzauber der Stufe 1 - Verändern : Luft => Erde  
 *Stärke +30, Schaden +1, Raufen +2*  
-Art: Gedanken, Stufe: 1, AP: 1, WM: -2, Zauberdauer: 1sek, Reichweite: -, Wirkungsziel: Körper, Wirkungsbereich: Zauberer, Wirkungsdauer: 2min, Ursprung: göttlich, Verändern : Luft => Erde
+AP: 1, WM: -2, Zauberdauer: 1sec, Reichweite: -, Wirkungsziel: Körper, Wirkungsbereich: Zauberer, Wirkungsdauer: 2min, Ursprung: göttlich  
 
-**Rauchwolke**  
+**Rauchwolke** - Gestenzauber der Stufe 2 - Verändern : Feuer => Luft  
 *Sichtweite 3m / 1m, Husten 1W6-2AP PW:Gift, B6*  
-Art: Geste, Stufe: 2, AP: 2, WM: -2, Zauberdauer: 5sek, Reichweite: 30m, Wirkungsziel: Umgebung, Wirkungsbereich: 9m Umkreis, Wirkungsdauer: 10m, Ursprung: elementar, Verändern : Feuer => Luft  
+AP: 2, WM: -2, Zauberdauer: 5sec, Reichweite: 30m, Wirkungsziel: Umgebung, Wirkungsbereich: 9m Umkreis, Wirkungsdauer: 10min, Ursprung: elementar  
 Material (Asche und Zunder 1SS):
 
-**Erkennen von Krankheit**  
-*Erkennt, ob Lebewesen krank ist und ob ansteckend. Erkennt Lebensgefahr. Ansteckung bei PW-30: Gift*  
-Art: Gedanken, Stufe: 1, AP: 1, WM: 0, Zauberdauer: 10m, Reichweite: Berührung, Wirkungsziel: Geist, Wirkungsbereich: Wesen, Wirkungsdauer: 0, Ursprung: druidisch, Erkennen : Magan => Eis  
+**Erkennen von Krankheit (DY)** - Gedankenzauber der Stufe 1 - Erkennen : Magan => Eis  
+*Erkennt, ob Lebewesen krank ist und ob ansteckend. Erkennt Lebensgefahr. Ansteckung bei PW-30:Gift*  
+AP: 1, WM: 0, Zauberdauer: 10min, Reichweite: Berührung, Wirkungsziel: Geist, Wirkungsbereich: 1 Wesen, Wirkungsdauer: 0, Ursprung: druidisch  
+Material (1GS):
 
-**Heilen von Krankheit**  
+**Heilen von Krankheit (DY)** - Gestenzauber der Stufe 2 - Zerstören : Holz => Eis  
 *Heilt natürliche und magische Krankheiten. Beendet Fortschreiten der Krankheit. Nur ein Versuch.*  
-Art: Geste, Stufe: 2, AP: 2, WM: 0, Zauberdauer: 10m, Reichweite: Berührung, Wirkungsziel: Körper, Wirkungsbereich: Wesen, Wirkungsdauer: 0, Ursprung: druidisch, Erschaffen : Holz => Erde  
+AP: 2, WM: 0, Zauberdauer: 10min, Reichweite: Berührung, Wirkungsziel: Körper, Wirkungsbereich: 1 Wesen, Wirkungsdauer: 0, Ursprung: druidisch  
 Material (1GS):
 
-**Heilen schwerer Wunden**  
+**Heilen schwerer Wunden (DY)** - Gestenzauber der Stufe 3 - Erschaffen : Holz => Erde  
 *2W6 LP und AP, nur alle drei Tage pro Abenteurer.*  
-Art: Geste, Stufe: 3, AP: 4, WM: 0, Zauberdauer: 10m, Reichweite: Berührung, Wirkungsziel: Körper, Wirkungsbereich: Wesen, Wirkungsdauer: 0, Ursprung: druidisch, Erschaffen : Holz => Erde  
+AP: 4, WM: 0, Zauberdauer: 10min, Reichweite: Berührung, Wirkungsziel: Körper, Wirkungsbereich: 1 Wesen, Wirkungsdauer: 0, Ursprung: druidisch  
 Material (1GS):
 
-**Bannen von Gift**  
-*Beschreibung...*  
+**Bannen von Gift (DY)** - Gestenzauber der Stufe 2 - Zerstören : Holz => Eis  
+*Der Zauberer kann ein Lebewesen vor den Folgen einer Vergiftung bewahren.*  
 *2W6 LP und AP, nur alle drei Tage pro Abenteurer.*  
-Art: Geste, Stufe: 2, AP: 4, WM: 0, Zauberdauer: 10m, Reichweite: Berührung, Wirkungsziel: Körper, Wirkungsbereich: Wesen, Wirkungsdauer: 0, Ursprung: druidisch, Zerstören : Holz => Eis  
+AP: 4, WM: 0, Zauberdauer: 10min, Reichweite: Berührung, Wirkungsziel: Körper, Wirkungsbereich: 1 Wesen, Wirkungsdauer: 0, Ursprung: druidisch  
 Material (1GS):
 
-**Seelenheilung**  
-*Beschreibung...*  
-Art: Geste, Stufe: 2, AP: 2, WM: 0, Zauberdauer: 10m, Reichweite: Berührung, Wirkungsziel: Geist, Wirkungsbereich: Wesen, Wirkungsdauer: 0, Ursprung: göttlich, Verändern : Holz => Luft  
+**Seelenheilung (DY)** - Wortzauber der Stufe 2 - Verändern : Holz => Luft  
+*Hebt die Wirkung von Zaubern auf, die die geistige Gesundheit beeinträchtigen. Hilft auch gegn Geisteskrankheiten, die keinen magischen Ursprung haben.*  
+AP: 2, WM: 0, Zauberdauer: 10min, Reichweite: Berührung, Wirkungsziel: Geist, Wirkungsbereich: 1 Wesen, Wirkungsdauer: 0, Ursprung: göttlich  
 Material (1GS):
 
-**Besänftigen**  
-*Beschreibung...*  
-Art: Wort, Stufe: 2, AP: 1/Grad, WM: -2, Zauberdauer: 5s, Reichweite: 30m, Wirkungsziel: Geist, Wirkungsbereich: Wesen pro Grad, Wirkungsdauer: 0, Ursprung: göttlich, Beherrschen : Wasser => Wasser  
+**Besänftigen** - Wortzauber der Stufe 2 - Beherrschen : Wasser => Wasser  
+*Wirkt beruhigend auf die Anima aggressiver Menschen oder ähnlich intelligenten Wesen ein.*  
+AP: 1 je Grad, WM: -2, Zauberdauer: 5sec, Reichweite: 30m, Wirkungsziel: Geist, Wirkungsbereich: 1 Wesen pro Grad, Wirkungsdauer: 0, Ursprung: göttlich  
 
-**Reinigen**  
-*Beschreibung...*  
+**Reinigen (DY)** - Gestenzauber der Stufe 1 - Zerstören : Holz => Eis  
+*Entfernt alle Krankheiten aus Flüssigkeiten und Lebensmitteln von bis zu 1kg Masse. Wirkt nicht gegen Gift.*  
+AP: 1, WM: 0, Zauberdauer: 10min, Reichweite: 1m, Wirkungsziel: Umgebung, Wirkungsbereich: 1kg, Wirkungsdauer: 0, Ursprung: druidisch  
+Material (1GS):
 
-**Entgiften**  
-*Beschreibung...*  
+**Entgiften (DY)** - Wortzauber der Stufe 2 - Zerstören : Magan => Eis  
+*Neutralisiert Gift auf Gegenständen oder in Getränken und Speisen. Wirkt nicht gegen Gifte in lebenden Körpern.*  
+AP: 2, WM: 0, Zauberdauer: 10min, Reichweite: 3m, Wirkungsziel: Umgebung, Wirkungsbereich: 1 Objekt, Wirkungsdauer: 0, Ursprung: druidisch  
+Material (1GS):
 
-**Hören der Geister**  
-*Beschreibung...*  
-
+**Hören der Geister** - Gedankenzauber der Stufe 3 - Erkennen : Eis => Luft  
+*Der Zauberer kann mit Geistern Verstorbener, die sicht- oder spürbar sind und sich im Wirkungsbereich aufhalten, Kontakt aufnehmen und Informationen von ihnen erhalten, die allerdings nicht stimmen müssen.*  
+AP: 2, WM: -2, Zauberdauer: 10sec, Reichweite: 0m, Wirkungsziel: Körper, Wirkungsbereich: 6m Umkreis, Wirkungsdauer: 20sec je Grad, Ursprung: dämonisch
