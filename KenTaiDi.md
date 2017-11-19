@@ -21,7 +21,7 @@ Stand: Volk, Glaube: LiChia, Spezialisierung: Dolch
 
 **Resistenz** +13 Bonus +3 / +5 / +0 => +16 / +18 / +13 (Geist / Körper / Umgebung)
 
-**Zaubern** +17 Bonus +4 => +21
+**Zaubern** +17 Bonus +4 => +21   PP: +
 
 **Boni** Ausdauer +3  Schaden +3  Angriff +0   Göttliche Gnade 3   Schicksalsgunst 8
 
@@ -37,7 +37,7 @@ Stand: Volk, Glaube: LiChia, Spezialisierung: Dolch
 | Baukunde                              |  +1   |     +7      |              |
 | Beredsamkeit                          |  -2   |    +(3)     |              |
 | Beschatten                            |       |    +(3)     |              |
-| Erste Hilfe                           |       |     +12     |              |
+| Erste Hilfe                           |       |     +12     | +            |
 | Erzählen                              |  +1   |     +11     |              |
 | Fallen entdecken                      |  +1   |    +(0)     |              |
 | Fallenmechanik                        |       |    +(0)     |              |
@@ -48,7 +48,7 @@ Stand: Volk, Glaube: LiChia, Spezialisierung: Dolch
 | Geländelauf                           |       |     +13     | +            |
 | Geschenke machen                      |  -2   |    +(3)     |              |
 | Giftmischen                           |  +1   |     +7      |              |
-| Heilkunde                             |  +1   |     +13     |              |
+| Heilkunde                             |  +1   |     +13     | +            |
 | Himmelskunde                          |  +1   |     +13     |              |
 | Kamelreiten                           |       |     +10     |              |
 | Kampftaktik                           |  -2   |     +10     | +            |
@@ -111,7 +111,7 @@ Stand: Volk, Glaube: LiChia, Spezialisierung: Dolch
 | Fertigkeit    | Bonus | Erfolgswert | Praxispunkte |
 | ------------- | :---: | :---------: | :----------- |
 | BoStab        |       |     +6      |              |
-| Dolch / Tanto |       |     +13     | ++           |
+| Dolch / Tanto |       |     +13     | +++          |
 
 ## Waffen
 
@@ -130,12 +130,12 @@ Stand: Volk, Glaube: LiChia, Spezialisierung: Dolch
 **Heilen von Wunden (DY)** - Gestenzauber der Stufe 2 - Erschaffen : Holz => Erde  
 *Heilt 1W6 LP und AP*  
 AP: 3, WM: 0, Zauberdauer: 10min, Reichweite: Berührung, Wirkungsziel: Körper, Wirkungsbereich: 1 Wesen, Wirkungsdauer: 0, Ursprung: druidisch  
-Material (1GS):
+Material (1GS): 10, 9, 8
 
 **Handauflegen (DY)** - Gestenzauber der Stufe 1 - Erschaffen : Holz => Feuer  
 *Heilt 1W6 AP. Eine Person kann nur einmal am tag neue Kraft erhalten.*  
 AP: 2, WM: 0, Zauberdauer: 10min, Reichweite: Berührung, Wirkungsziel: Körper, Wirkungsbereich: 1 Wesen, Wirkungsdauer: 0, Ursprung: druidisch  
-Material (1GS):
+Material (1GS): 10
 
 **Heiliger Zorn** - Gedankenzauber der Stufe 1 - Verändern : Luft => Erde  
 *Stärke +30, Schaden +1, Raufen +2*  
@@ -149,28 +149,28 @@ Material (Asche und Zunder 1SS):
 **Erkennen von Krankheit (DY)** - Gedankenzauber der Stufe 1 - Erkennen : Magan => Eis  
 *Erkennt, ob Lebewesen krank ist und ob ansteckend. Erkennt Lebensgefahr. Ansteckung bei PW-30:Gift*  
 AP: 1, WM: 0, Zauberdauer: 10min, Reichweite: Berührung, Wirkungsziel: Geist, Wirkungsbereich: 1 Wesen, Wirkungsdauer: 0, Ursprung: druidisch  
-Material (1GS):
+Material (1GS): 10
 
 **Heilen von Krankheit (DY)** - Gestenzauber der Stufe 2 - Zerstören : Holz => Eis  
 *Heilt natürliche und magische Krankheiten. Beendet Fortschreiten der Krankheit. Nur ein Versuch.*  
 AP: 2, WM: 0, Zauberdauer: 10min, Reichweite: Berührung, Wirkungsziel: Körper, Wirkungsbereich: 1 Wesen, Wirkungsdauer: 0, Ursprung: druidisch  
-Material (1GS):
+Material (1GS): 10
 
 **Heilen schwerer Wunden (DY)** - Gestenzauber der Stufe 3 - Erschaffen : Holz => Erde  
 *2W6 LP und AP, nur alle drei Tage pro Abenteurer.*  
 AP: 4, WM: 0, Zauberdauer: 10min, Reichweite: Berührung, Wirkungsziel: Körper, Wirkungsbereich: 1 Wesen, Wirkungsdauer: 0, Ursprung: druidisch  
-Material (1GS):
+Material (1GS): 10
 
 **Bannen von Gift (DY)** - Gestenzauber der Stufe 2 - Zerstören : Holz => Eis  
 *Der Zauberer kann ein Lebewesen vor den Folgen einer Vergiftung bewahren.*  
 *2W6 LP und AP, nur alle drei Tage pro Abenteurer.*  
 AP: 4, WM: 0, Zauberdauer: 10min, Reichweite: Berührung, Wirkungsziel: Körper, Wirkungsbereich: 1 Wesen, Wirkungsdauer: 0, Ursprung: druidisch  
-Material (1GS):
+Material (1GS): 10
 
 **Seelenheilung (DY)** - Wortzauber der Stufe 2 - Verändern : Holz => Luft  
 *Hebt die Wirkung von Zaubern auf, die die geistige Gesundheit beeinträchtigen. Hilft auch gegn Geisteskrankheiten, die keinen magischen Ursprung haben.*  
 AP: 2, WM: 0, Zauberdauer: 10min, Reichweite: Berührung, Wirkungsziel: Geist, Wirkungsbereich: 1 Wesen, Wirkungsdauer: 0, Ursprung: göttlich  
-Material (1GS):
+Material (1GS): 10
 
 **Besänftigen** - Wortzauber der Stufe 2 - Beherrschen : Wasser => Wasser  
 *Wirkt beruhigend auf die Anima aggressiver Menschen oder ähnlich intelligenten Wesen ein.*  
@@ -179,12 +179,12 @@ AP: 1 je Grad, WM: -2, Zauberdauer: 5sec, Reichweite: 30m, Wirkungsziel: Geist, 
 **Reinigen (DY)** - Gestenzauber der Stufe 1 - Zerstören : Holz => Eis  
 *Entfernt alle Krankheiten aus Flüssigkeiten und Lebensmitteln von bis zu 1kg Masse. Wirkt nicht gegen Gift.*  
 AP: 1, WM: 0, Zauberdauer: 10min, Reichweite: 1m, Wirkungsziel: Umgebung, Wirkungsbereich: 1kg, Wirkungsdauer: 0, Ursprung: druidisch  
-Material (1GS):
+Material (1GS): 10
 
 **Entgiften (DY)** - Wortzauber der Stufe 2 - Zerstören : Magan => Eis  
 *Neutralisiert Gift auf Gegenständen oder in Getränken und Speisen. Wirkt nicht gegen Gifte in lebenden Körpern.*  
 AP: 2, WM: 0, Zauberdauer: 10min, Reichweite: 3m, Wirkungsziel: Umgebung, Wirkungsbereich: 1 Objekt, Wirkungsdauer: 0, Ursprung: druidisch  
-Material (1GS):
+Material (1GS): 10
 
 **Hören der Geister** - Gedankenzauber der Stufe 3 - Erkennen : Eis => Luft  
 *Der Zauberer kann mit Geistern Verstorbener, die sicht- oder spürbar sind und sich im Wirkungsbereich aufhalten, Kontakt aufnehmen und Informationen von ihnen erhalten, die allerdings nicht stimmen müssen.*  
