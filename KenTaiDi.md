@@ -189,5 +189,5 @@ AP: 2, WM: -2, Zauberdauer: 10sec, Reichweite: 0m, Wirkungsziel: Körper, Wirkun
 
 **Blutmeisterschaft (DY)** - Gedankenzauber der Stufe 3 - Verändern : Erde => Holz  
 *Der Zauberer vermag den Blutfluß in seinem Körper bewußt zu kontrollieren. -2 LP-Verlust, Heilzeit schwerer Wunden halbiert bei täglicher Anwendung*  
-AP: 3, WM: 0, Zauberdauer: 10min, Reichweite: -, Wirkungsziel: Körper, Wirkungsbereich: 1 Wesen, Wirkungsdauer: 10min je Grad: Ursprung: göttlich  
+AP: 3, WM: 0, Zauberdauer: 10min, Reichweite: -, Wirkungsziel: Körper, Wirkungsbereich: 1 Wesen, Wirkungsdauer: 10min je Grad, Ursprung: göttlich  
 Material (1GS): 10
