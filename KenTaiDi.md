@@ -21,7 +21,7 @@ Stand: Volk, Glaube: LiChia, Spezialisierung: Dolch
 
 **Resistenz** +13 Bonus +3 / +5 / +0 => +16 / +18 / +13 (Geist / Körper / Umgebung)
 
-**Zaubern** +17 Bonus +4 => +21   PP: ++++
+**Zaubern** +17 Bonus +4 => +21   PP: + + + +
 
 **Boni** Ausdauer +3  Schaden +3  Angriff +0   Göttliche Gnade 3   Schicksalsgunst 8
 
@@ -37,7 +37,7 @@ Stand: Volk, Glaube: LiChia, Spezialisierung: Dolch
 | Baukunde                              |     +9      |  +1   |    +10     |              |
 | Beredsamkeit                          |    +(3)     |  -2   |    +(1)    |              |
 | Beschatten                            |    +(3)     |       |    +(3)    |              |
-| Erste Hilfe                           |     +13     |       |    +13     |              |
+| Erste Hilfe (1W6LP+AP)                |     +13     |       |    +13     |              |
 | Erzählen                              |     +11     |  +1   |    +12     |              |
 | Fallen entdecken                      |    +(0)     |  +1   |    +(1)    |              |
 | Fallenmechanik                        |    +(0)     |       |    +(0)    |              |
@@ -56,7 +56,7 @@ Stand: Volk, Glaube: LiChia, Spezialisierung: Dolch
 | Kenntnis der 5 Klassiker              |     +11     |  +1   |    +12     |              |
 | Klettern                              |     +14     |  +1   |    +15     |              |
 | Kräuterkunde                          |     +6      |  +1   |     +7     |              |
-| Landeskunde KTP Ost                   |     +12     |  +1   |    +13     | ++           |
+| Landeskunde KTP Ost                   |     +12     |  +1   |    +13     | + +          |
 | Laufen                                |     +4      |       |     +4     |              |
 | Lesen / Schreiben Aranisch            |     +10     |  +1   |    +11     |              |
 | Lesen / Schreiben Rawindi             |     +10     |  +1   |    +11     |              |
@@ -111,7 +111,7 @@ Stand: Volk, Glaube: LiChia, Spezialisierung: Dolch
 | Fertigkeit    | Bonus | Erfolgswert | Praxispunkte |
 | ------------- | :---: | :---------: | :----------- |
 | BoStab        |       |     +10     |              |
-| Dolch / Tanto |       |     +13     | +++          |
+| Dolch / Tanto |       |     +13     | + + + +      |
 
 ## Waffen
 
@@ -178,15 +178,16 @@ AP: 1 je Grad, WM: -2, Zauberdauer: 5sec, Reichweite: 30m, Wirkungsziel: Geist, 
 **Reinigen** - Gestenzauber der Stufe 1 - Zerstören : Holz => Eis  
 *Entfernt alle Krankheiten aus Flüssigkeiten und Lebensmitteln von bis zu 1kg Masse. Wirkt nicht gegen Gift.*  
 AP: 1, WM: 0, Zauberdauer: 10min, Reichweite: 1m, Wirkungsziel: Umgebung, Wirkungsbereich: 1kg, Wirkungsdauer: 0, Ursprung: druidisch  
-Material (1GS): 10
 
 **Entgiften** - Wortzauber der Stufe 2 - Zerstören : Magan => Eis  
 *Neutralisiert Gift auf Gegenständen oder in Getränken und Speisen. Wirkt nicht gegen Gifte in lebenden Körpern.*  
-AP: 2, WM: 0, Zauberdauer: 10min, Reichweite: 3m, Wirkungsziel: Umgebung, Wirkungsbereich: 1 Objekt, Wirkungsdauer: 0, Ursprung: druidisch  
-Material (1GS): 10
+AP: 2, WM: 0, Zauberdauer: 30sec, Reichweite: 3m, Wirkungsziel: Umgebung, Wirkungsbereich: 1 Objekt, Wirkungsdauer: 0, Ursprung: druidisch  
 
 **Hören der Geister** - Gedankenzauber der Stufe 3 - Erkennen : Eis => Luft  
 *Der Zauberer kann mit Geistern Verstorbener, die sicht- oder spürbar sind und sich im Wirkungsbereich aufhalten, Kontakt aufnehmen und Informationen von ihnen erhalten, die allerdings nicht stimmen müssen.*  
 AP: 2, WM: -2, Zauberdauer: 10sec, Reichweite: 0m, Wirkungsziel: Körper, Wirkungsbereich: 6m Umkreis, Wirkungsdauer: 20sec je Grad, Ursprung: dämonisch
 
-**Blutmeisterschaft**
+**Blutmeisterschaft (DY)** - Gedankenzauber der Stufe 3 - Verändern : Erde => Holz  
+*Der Zauberer vermag den Blutfluß in seinem Körper bewußt zu kontrollieren. -2 LP-Verlust, Heilzeit schwerer Wunden halbiert bei täglicher Anwendung*  
+AP: 3, WM: 0, Zauberdauer: 10min, Reichweite: -, Wirkungsziel: Körper, Wirkungsbereich: 1 Wesen, Wirkungsdauer: 10min je Grad: Ursprung: göttlich  
+Material (1GS): 10
