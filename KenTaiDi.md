@@ -21,7 +21,7 @@ Stand: Volk, Glaube: LiChia, Spezialisierung: Dolch
 
 **Resistenz** +13 Bonus +3 / +5 / +0 => +16 / +18 / +13 (Geist / Körper / Umgebung)
 
-**Zaubern** +17 Bonus +4 => +21   PP: +
+**Zaubern** +17 Bonus +4 => +21   PP: ++++
 
 **Boni** Ausdauer +3  Schaden +3  Angriff +0   Göttliche Gnade 3   Schicksalsgunst 8
 
@@ -30,79 +30,79 @@ Stand: Volk, Glaube: LiChia, Spezialisierung: Dolch
 **AP** 44
 
 ## Fertigkeiten
-| Fertigkeit                            | Bonus | Erfolgswert | Praxispunkte |
-| ------------------------------------- | :---: | :---------: | :----------- |
-| Akrobatik                             |       |    +(8)     |              |
-| Balancieren                           |       |     +12     |              |
-| Baukunde                              |  +1   |     +7      |              |
-| Beredsamkeit                          |  -2   |    +(3)     |              |
-| Beschatten                            |       |    +(3)     |              |
-| Erste Hilfe                           |       |     +12     | +            |
-| Erzählen                              |  +1   |     +11     |              |
-| Fallen entdecken                      |  +1   |    +(0)     |              |
-| Fallenmechanik                        |       |    +(0)     |              |
-| Fallenstellen                         |       |    +(1)     |              |
-| Fangen                                |       |    +(8)     |              |
-| Geheimmechanismus öffnen              |       |    +(1)     |              |
-| Geheimzeichen (weißer Lotus)          |  +1   |     +7      |              |
-| Geländelauf                           |       |     +13     | +            |
-| Geschenke machen                      |  -2   |    +(3)     |              |
-| Giftmischen                           |  +1   |     +7      |              |
-| Heilkunde                             |  +1   |     +13     | +            |
-| Himmelskunde                          |  +1   |     +13     |              |
-| Kamelreiten                           |       |     +10     |              |
-| Kampftaktik                           |  -2   |     +10     | +            |
-| Kanthanische Schrift (Kanzleischrift) |  +1   |     +13     |              |
-| Kenntnis der 5 Klassiker              |  +1   |     +11     |              |
-| Klettern                              |  +1   |     +14     |              |
-| Kräuterkunde                          |  +1   |     +6      |              |
-| Landeskunde KTP Ost                   |  +1   |     +12     | ++           |
-| Laufen                                |       |     +4      |              |
-| Lesen / Schreiben Aranisch            |  +1   |     +10     |              |
-| Lesen / Schreiben Rawindi             |  +1   |     +10     |              |
-| Lippenlesen                           |  +1   |     +5      |              |
-| Menschenkenntnis                      |  +1   |     +8      |              |
-| Meucheln / Betäuben                   |       |   +(0/6)    |              |
-| Naturkunde                            |  +1   |     +4      |              |
-| Pflanzenkunde                         |  +1   |     +8      |              |
-| Rechnen                               |  +1   |     +9      |              |
-| Reiten                                |       |     +10     |              |
-| Rudern                                |  +1   |    +(3)     |              |
-| Sagenkunde                            |  +1   |     +10     |              |
-| Schleichen                            |       |    +(3)     |              |
-| Schlittenfahren                       |       |    +(3)     |              |
-| Schlösser öffnen                      |       |    +(0)     |              |
-| Schreiben KTT                         |  +1   |     +13     |              |
-| Schwimmen                             |       |    +(3)     |              |
-| Schätzen                              |  +1   |     +7      |              |
-| Seilkunst                             |       |    +(4)     |              |
-| Singen                                |       |    +(4)     |              |
-| Sprechen Aranisch                     |  +1   |     +10     |              |
-| Sprechen KTT (Muttersprache)          |  +1   |     +19     |              |
-| Sprechen Moravisch                    |  +1   |     +10     |              |
-| Sprechen Rawindi                      |  +1   |     +10     |              |
-| Springen                              |  +1   |     +12     |              |
-| Spurenlesen                           |  +1   |    +(0)     |              |
-| Stehlen                               |       |    +(3)     |              |
-| Steinabreibung machen                 |       |    +(6)     |              |
-| Suchen                                |  +1   |    +(3)     |              |
-| Tanzen                                |       |    +(8)     |              |
-| Tarnen                                |       |    +(3)     |              |
-| Tauchen                               |       |    +(9)     |              |
-| Tierkunde                             |  +1   |     +10     |              |
-| Trinken                               |       |    +(6)     |              |
-| Verbergen                             |  +1   |    +(3)     |              |
-| Verführen                             |  -2   |    +(3)     |              |
-| Verhören                              |  -2   |    +(3)     |              |
-| Verkleiden                            |       |    +(5)     |              |
-| Wagenlenken                           |       |    +(3)     |              |
-| Wahrnehmung                           |  +1   |    +(2)     |              |
-| Werfen                                |       |    +(4)     |              |
-| Winden                                |       |    +(0)     |              |
-| Zauberkunde                           |  +1   |     +11     |              |
-| Zauberschrift lesen                   |  +1   |     +11     |              |
-| Überleben Gebirge (Heimat)            |  +1   |    +(6)     |              |
-| Überleben Wüste                       |  +1   |     +12     |              |
+| Fertigkeit                            | Erfolgswert | Bonus | Gesamtwert | Praxispunkte |
+| ------------------------------------- | :---------: | :---: | :--------: | :----------- |
+| Akrobatik                             |    +(8)     |       |    +(8)    |              |
+| Balancieren                           |     +12     |       |    +12     |              |
+| Baukunde                              |     +9      |  +1   |    +10     |              |
+| Beredsamkeit                          |    +(3)     |  -2   |    +(1)    |              |
+| Beschatten                            |    +(3)     |       |    +(3)    |              |
+| Erste Hilfe                           |     +13     |       |    +13     |              |
+| Erzählen                              |     +11     |  +1   |    +12     |              |
+| Fallen entdecken                      |    +(0)     |  +1   |    +(1)    |              |
+| Fallenmechanik                        |    +(0)     |       |    +(0)    |              |
+| Fallenstellen                         |    +(1)     |       |    +(1)    |              |
+| Fangen                                |    +(8)     |       |    +(8)    |              |
+| Geheimmechanismus öffnen              |    +(1)     |       |    +(1)    |              |
+| Geheimzeichen (weißer Lotus)          |     +7      |  +1   |     +8     |              |
+| Geländelauf                           |     +14     |       |    +14     |              |
+| Geschenke machen                      |    +(3)     |  -2   |    +(1)    |              |
+| Giftmischen                           |     +7      |  +1   |     +8     |              |
+| Heilkunde                             |     +14     |  +1   |    +15     |              |
+| Himmelskunde                          |     +13     |  +1   |    +14     |              |
+| Kamelreiten                           |     +10     |       |    +10     |              |
+| Kampftaktik                           |     +12     |  -2   |    +10     |              |
+| Kanthanische Schrift (Kanzleischrift) |     +13     |  +1   |    +14     |              |
+| Kenntnis der 5 Klassiker              |     +11     |  +1   |    +12     |              |
+| Klettern                              |     +14     |  +1   |    +15     |              |
+| Kräuterkunde                          |     +6      |  +1   |     +7     |              |
+| Landeskunde KTP Ost                   |     +12     |  +1   |    +13     | ++           |
+| Laufen                                |     +4      |       |     +4     |              |
+| Lesen / Schreiben Aranisch            |     +10     |  +1   |    +11     |              |
+| Lesen / Schreiben Rawindi             |     +10     |  +1   |    +11     |              |
+| Lippenlesen                           |     +5      |  +1   |     +6     |              |
+| Menschenkenntnis                      |     +8      |  +1   |     +9     |              |
+| Meucheln / Betäuben                   |   +(0/6)    |       |   +(0/6)   |              |
+| Naturkunde                            |     +9      |  +1   |    +10     |              |
+| Pflanzenkunde                         |     +8      |  +1   |     +9     |              |
+| Rechnen                               |     +9      |  +1   |    +10     |              |
+| Reiten                                |     +10     |       |    +10     |              |
+| Rudern                                |    +(3)     |  +1   |    +(4)    |              |
+| Sagenkunde                            |     +10     |  +1   |    +11     | +            |
+| Schleichen                            |    +(3)     |       |    +(3)    |              |
+| Schlittenfahren                       |    +(3)     |       |    +(3)    |              |
+| Schlösser öffnen                      |    +(0)     |       |    +(0)    |              |
+| Schreiben KTT                         |     +13     |  +1   |    +14     |              |
+| Schwimmen                             |    +(3)     |       |    +(3)    |              |
+| Schätzen                              |     +7      |  +1   |     +8     |              |
+| Seilkunst                             |    +(4)     |       |    +(4)    |              |
+| Singen                                |    +(4)     |       |    +(4)    |              |
+| Sprechen Aranisch                     |     +10     |  +1   |    +11     |              |
+| Sprechen KTT (Muttersprache)          |     +19     |  +1   |    +20     |              |
+| Sprechen Moravisch                    |     +10     |  +1   |    +11     |              |
+| Sprechen Rawindi                      |     +10     |  +1   |    +11     |              |
+| Springen                              |     +12     |  +1   |    +13     |              |
+| Spurenlesen                           |    +(0)     |  +1   |    +(1)    |              |
+| Stehlen                               |    +(3)     |       |    +(3)    |              |
+| Steinabreibung machen                 |    +(6)     |       |    +(6)    |              |
+| Suchen                                |    +(3)     |  +1   |    +(4)    |              |
+| Tanzen                                |    +(8)     |       |    +(8)    |              |
+| Tarnen                                |    +(3)     |       |    +(3)    |              |
+| Tauchen                               |    +(9)     |       |    +(9)    |              |
+| Tierkunde                             |     +11     |  +1   |    +12     |              |
+| Trinken                               |    +(6)     |       |    +(6)    |              |
+| Verbergen                             |    +(3)     |  +1   |    +(4)    |              |
+| Verführen                             |    +(3)     |  -2   |    +(1)    |              |
+| Verhören                              |    +(3)     |  -2   |    +(1)    |              |
+| Verkleiden                            |    +(5)     |       |    +(5)    |              |
+| Wagenlenken                           |    +(3)     |       |    +(3)    |              |
+| Wahrnehmung                           |    +(2)     |  +1   |    +(3)    |              |
+| Werfen                                |    +(4)     |       |    +(4)    |              |
+| Winden                                |    +(0)     |       |    +(0)    |              |
+| Zauberkunde                           |     +12     |  +1   |    +13     |              |
+| Zauberschrift lesen                   |     +11     |  +1   |    +12     |              |
+| Überleben Gebirge (Heimat)            |    +(6)     |  +1   |    +(7)    |              |
+| Überleben Wüste                       |     +12     |  +1   |    +13     |              |
 
 ## Waffenfertigkeiten
 
@@ -110,7 +110,7 @@ Stand: Volk, Glaube: LiChia, Spezialisierung: Dolch
 
 | Fertigkeit    | Bonus | Erfolgswert | Praxispunkte |
 | ------------- | :---: | :---------: | :----------- |
-| BoStab        |       |     +6      |              |
+| BoStab        |       |     +10     |              |
 | Dolch / Tanto |       |     +13     | +++          |
 
 ## Waffen
@@ -121,7 +121,7 @@ Stand: Volk, Glaube: LiChia, Spezialisierung: Dolch
 | :---------------: | :-----: | :-----: | :--: |
 | waffenloser Kampf |  +(4)   |  1W6-1  |  +2  |
 |   Tanto (Dolch)   |   +13   |  1W6+2  |  +2  |
-|      BoStab       |   +6    |  1W6+3  |  +2  |
+|      BoStab       |   +10   |  1W6+3  |  +2  |
 |  Magischer Dolch  |   +14   |  1W6+3  |  +2  |
 
 
@@ -163,7 +163,6 @@ Material (1GS): 10
 
 **Bannen von Gift (DY)** - Gestenzauber der Stufe 2 - Zerstören : Holz => Eis  
 *Der Zauberer kann ein Lebewesen vor den Folgen einer Vergiftung bewahren.*  
-*2W6 LP und AP, nur alle drei Tage pro Abenteurer.*  
 AP: 4, WM: 0, Zauberdauer: 10min, Reichweite: Berührung, Wirkungsziel: Körper, Wirkungsbereich: 1 Wesen, Wirkungsdauer: 0, Ursprung: druidisch  
 Material (1GS): 10
 
@@ -176,12 +175,12 @@ Material (1GS): 10
 *Wirkt beruhigend auf die Anima aggressiver Menschen oder ähnlich intelligenten Wesen ein.*  
 AP: 1 je Grad, WM: -2, Zauberdauer: 5sec, Reichweite: 30m, Wirkungsziel: Geist, Wirkungsbereich: 1 Wesen pro Grad, Wirkungsdauer: 0, Ursprung: göttlich  
 
-**Reinigen (DY)** - Gestenzauber der Stufe 1 - Zerstören : Holz => Eis  
+**Reinigen** - Gestenzauber der Stufe 1 - Zerstören : Holz => Eis  
 *Entfernt alle Krankheiten aus Flüssigkeiten und Lebensmitteln von bis zu 1kg Masse. Wirkt nicht gegen Gift.*  
 AP: 1, WM: 0, Zauberdauer: 10min, Reichweite: 1m, Wirkungsziel: Umgebung, Wirkungsbereich: 1kg, Wirkungsdauer: 0, Ursprung: druidisch  
 Material (1GS): 10
 
-**Entgiften (DY)** - Wortzauber der Stufe 2 - Zerstören : Magan => Eis  
+**Entgiften** - Wortzauber der Stufe 2 - Zerstören : Magan => Eis  
 *Neutralisiert Gift auf Gegenständen oder in Getränken und Speisen. Wirkt nicht gegen Gifte in lebenden Körpern.*  
 AP: 2, WM: 0, Zauberdauer: 10min, Reichweite: 3m, Wirkungsziel: Umgebung, Wirkungsbereich: 1 Objekt, Wirkungsdauer: 0, Ursprung: druidisch  
 Material (1GS): 10
@@ -189,3 +188,5 @@ Material (1GS): 10
 **Hören der Geister** - Gedankenzauber der Stufe 3 - Erkennen : Eis => Luft  
 *Der Zauberer kann mit Geistern Verstorbener, die sicht- oder spürbar sind und sich im Wirkungsbereich aufhalten, Kontakt aufnehmen und Informationen von ihnen erhalten, die allerdings nicht stimmen müssen.*  
 AP: 2, WM: -2, Zauberdauer: 10sec, Reichweite: 0m, Wirkungsziel: Körper, Wirkungsbereich: 6m Umkreis, Wirkungsdauer: 20sec je Grad, Ursprung: dämonisch
+
+**Blutmeisterschaft**
