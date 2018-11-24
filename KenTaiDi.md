@@ -63,7 +63,7 @@ Stand: Volk, Glaube: LiChia, Spezialisierung: Dolch
 | Lippenlesen                           |     +5      |  +1   |     +6     |              |
 | Menschenkenntnis                      |     +8      |  +1   |     +9     |              |
 | Meucheln / Betäuben                   |   +(0/6)    |       |   +(0/6)   |              |
-| Naturkunde                            |     +9      |  +1   |    +10     |              |
+| Naturkunde                            |     +9      |  +1   |    +10     | +            |
 | Pflanzenkunde                         |     +8      |  +1   |     +9     |              |
 | Rechnen                               |     +9      |  +1   |    +10     |              |
 | Reiten                                |     +10     |       |    +10     |              |
@@ -130,7 +130,7 @@ Stand: Volk, Glaube: LiChia, Spezialisierung: Dolch
 **Heilen von Wunden (DY)** - Gestenzauber der Stufe 2 - Erschaffen : Holz => Erde  
 *Heilt 1W6 LP und AP*  
 AP: 3, WM: 0, Zauberdauer: 10min, Reichweite: Berührung, Wirkungsziel: Körper, Wirkungsbereich: 1 Wesen, Wirkungsdauer: 0, Ursprung: druidisch  
-Material (1GS): 10, 9, 8
+Material (1GS): 10
 
 **Handauflegen (DY)** - Gestenzauber der Stufe 1 - Erschaffen : Holz => Feuer  
 *Heilt 1W6 AP. Eine Person kann nur einmal am tag neue Kraft erhalten.*  
