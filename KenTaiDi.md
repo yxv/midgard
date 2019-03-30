@@ -23,7 +23,7 @@ Stand: Volk, Glaube: LiChia, Spezialisierung: Dolch
 
 **Zaubern** +17 Bonus +4 => +21   PP: + + + +
 
-**Boni** Ausdauer +3  Schaden +3  Angriff +0   Göttliche Gnade 3   Schicksalsgunst 8
+**Boni** Ausdauer +3  Schaden +3  Angriff +0   Göttliche Gnade 3   Schicksalsgunst 5
 
 **LP** 15
 
@@ -48,10 +48,10 @@ Stand: Volk, Glaube: LiChia, Spezialisierung: Dolch
 | Geländelauf                           |     +14     |       |    +14     |              |
 | Geschenke machen                      |    +(3)     |  -2   |    +(1)    |              |
 | Giftmischen                           |     +7      |  +1   |     +8     |              |
-| Heilkunde                             |     +14     |  +1   |    +15     |              |
+| Heilkunde                             |     +14     |  +1   |    +15     | +            |
 | Himmelskunde                          |     +13     |  +1   |    +14     |              |
 | Kamelreiten                           |     +10     |       |    +10     |              |
-| Kampftaktik                           |     +12     |  -2   |    +10     |              |
+| Kampftaktik                           |     +14     |  -2   |    +12     |              |
 | Kanthanische Schrift (Kanzleischrift) |     +13     |  +1   |    +14     |              |
 | Kenntnis der 5 Klassiker              |     +11     |  +1   |    +12     |              |
 | Klettern                              |     +14     |  +1   |    +15     |              |
@@ -61,6 +61,7 @@ Stand: Volk, Glaube: LiChia, Spezialisierung: Dolch
 | Lesen / Schreiben Aranisch            |     +10     |  +1   |    +11     |              |
 | Lesen / Schreiben Rawindi             |     +10     |  +1   |    +11     |              |
 | Lippenlesen                           |     +5      |  +1   |     +6     |              |
+| Meditieren                            |     +12     |  -2   |    +10     |              |
 | Menschenkenntnis                      |     +8      |  +1   |     +9     |              |
 | Meucheln / Betäuben                   |   +(0/6)    |       |   +(0/6)   |              |
 | Naturkunde                            |     +9      |  +1   |    +10     | +            |
@@ -68,7 +69,7 @@ Stand: Volk, Glaube: LiChia, Spezialisierung: Dolch
 | Rechnen                               |     +9      |  +1   |    +10     |              |
 | Reiten                                |     +10     |       |    +10     |              |
 | Rudern                                |    +(3)     |  +1   |    +(4)    |              |
-| Sagenkunde                            |     +10     |  +1   |    +11     | +            |
+| Sagenkunde                            |     +11     |  +1   |    +12     | +            |
 | Schleichen                            |    +(3)     |       |    +(3)    |              |
 | Schlittenfahren                       |    +(3)     |       |    +(3)    |              |
 | Schlösser öffnen                      |    +(0)     |       |    +(0)    |              |
@@ -89,7 +90,7 @@ Stand: Volk, Glaube: LiChia, Spezialisierung: Dolch
 | Tanzen                                |    +(8)     |       |    +(8)    |              |
 | Tarnen                                |    +(3)     |       |    +(3)    |              |
 | Tauchen                               |    +(9)     |       |    +(9)    |              |
-| Tierkunde                             |     +11     |  +1   |    +12     |              |
+| Tierkunde                             |     +11     |  +1   |    +12     | +            |
 | Trinken                               |    +(6)     |       |    +(6)    |              |
 | Verbergen                             |    +(3)     |  +1   |    +(4)    |              |
 | Verführen                             |    +(3)     |  -2   |    +(1)    |              |
@@ -99,7 +100,7 @@ Stand: Volk, Glaube: LiChia, Spezialisierung: Dolch
 | Wahrnehmung                           |    +(2)     |  +1   |    +(3)    |              |
 | Werfen                                |    +(4)     |       |    +(4)    |              |
 | Winden                                |    +(0)     |       |    +(0)    |              |
-| Zauberkunde                           |     +12     |  +1   |    +13     |              |
+| Zauberkunde                           |     +12     |  +1   |    +13     | +            |
 | Zauberschrift lesen                   |     +11     |  +1   |    +12     |              |
 | Überleben Gebirge (Heimat)            |    +(6)     |  +1   |    +(7)    |              |
 | Überleben Wüste                       |     +12     |  +1   |    +13     |              |
@@ -108,21 +109,21 @@ Stand: Volk, Glaube: LiChia, Spezialisierung: Dolch
 
 **Grundkenntnisse**  Stichwaffen, Kampfstab
 
-| Fertigkeit    | Bonus | Erfolgswert | Praxispunkte |
-| ------------- | :---: | :---------: | :----------- |
-| BoStab        |       |     +10     |              |
-| Dolch / Tanto |       |     +13     | + + + +      |
+| Fertigkeit     | Bonus | Erfolgswert | Praxispunkte |
+| -------------- | :---: | :---------: | :----------- |
+| BoStab (Abw+5) |       |     +10     |              |
+| Dolch / Tanto  |       |     +14     |              |
 
 ## Waffen
 
-**Rüstung** Lederrüstung
+**Rüstung** Lederrüstung mit Helm
 
-|       Waffe       | Angriff | Schaden |  WR  |
-| :---------------: | :-----: | :-----: | :--: |
-| waffenloser Kampf |  +(4)   |  1W6-1  |  +2  |
-|   Tanto (Dolch)   |   +13   |  1W6+2  |  +2  |
-|      BoStab       |   +10   |  1W6+3  |  +2  |
-|  Magischer Dolch  |   +14   |  1W6+3  |  +2  |
+|                   Waffe                   |  Angriff  | Schaden |  WR  |
+| :---------------------------------------: | :-------: | :-----: | :--: |
+|             waffenloser Kampf             |   +(4)    |  1W6-1  |  +2  |
+|               Tanto (Dolch)               |    +13    |  1W6+2  |  +2  |
+|      BoStab (Blutsbruder +1 Angriff)      | +10 (+11) |  1W6+3  |  +2  |
+| Magischer Dolch (+1 Angriff / +1 Schaden) |    +15    |  1W6+3  |  +2  |
 
 
 ## Zaubersprüche
