@@ -7,7 +7,7 @@ Stand: Volk, Glaube: LiChia, Spezialisierung: Dolch
 ## Stammdaten
 |  St  |  Gs  |  Gw  |  Ko  |  In  |  Zt  |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-|  84  |  70  |  78  |  65  |  92  | 100  |
+|  84  |  70  |  84  |  65  |  92  | 100  |
 
 |  Au  |  pA  |  Wk  |  Sb  | GiT  |  B   |
 | :--: | :--: | :--: | :--: | :--: | :--: |
@@ -37,7 +37,7 @@ Stand: Volk, Glaube: LiChia, Spezialisierung: Dolch
 | Baukunde                              |     +9      |  +1   |    +10     |              |
 | Beredsamkeit                          |    +(3)     |  -2   |    +(1)    |              |
 | Beschatten                            |    +(3)     |       |    +(3)    |              |
-| Erste Hilfe (1W6 LP + AP)             |     +13     |       |    +13     |              |
+| Erste Hilfe (1W6 LP + AP)             |     +13     |       |    +13     | + +          |
 | Erzählen                              |     +11     |  +1   |    +12     |              |
 | Fallen entdecken                      |    +(0)     |  +1   |    +(1)    |              |
 | Fallenmechanik                        |    +(0)     |       |    +(0)    |              |
@@ -48,12 +48,12 @@ Stand: Volk, Glaube: LiChia, Spezialisierung: Dolch
 | Geländelauf                           |     +14     |       |    +14     |              |
 | Geschenke machen                      |    +(3)     |  -2   |    +(1)    |              |
 | Giftmischen                           |     +7      |  +1   |     +8     |              |
-| Heilkunde                             |     +14     |  +1   |    +15     | +            |
+| Heilkunde                             |     +14     |  +1   |    +15     | + + + + +    |
 | Himmelskunde                          |     +13     |  +1   |    +14     |              |
 | Kamelreiten                           |     +10     |       |    +10     |              |
 | Kampftaktik                           |     +14     |  -2   |    +12     |              |
 | Kanthanische Schrift (Kanzleischrift) |     +13     |  +1   |    +14     |              |
-| Kenntnis der 5 Klassiker              |     +11     |  +1   |    +12     |              |
+| Kenntnis der 5 Klassiker              |     +11     |  +1   |    +12     | +            |
 | Klettern                              |     +14     |  +1   |    +15     |              |
 | Kräuterkunde                          |     +6      |  +1   |     +7     |              |
 | Landeskunde KTP Ost                   |     +12     |  +1   |    +13     | + +          |
@@ -111,12 +111,12 @@ Stand: Volk, Glaube: LiChia, Spezialisierung: Dolch
 
 | Fertigkeit     | Bonus | Erfolgswert | Praxispunkte |
 | -------------- | :---: | :---------: | :----------- |
-| BoStab (Abw+5) |       |     +10     |              |
-| Dolch / Tanto  |       |     +14     |              |
+| BoStab (Abw+5) |       |     +10     | +            |
+| Dolch / Tanto  |       |     +14     | + + + + +    |
 
 ## Waffen
 
-**Rüstung** Lederrüstung mit Helm
+**Rüstung** Lederrüstung mit Helm -2 LP-Verlust
 
 |                   Waffe                   |  Angriff  | Schaden |  WR  |
 | :---------------------------------------: | :-------: | :-----: | :--: |

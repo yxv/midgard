@@ -22,6 +22,10 @@
 - Fernrohr
 - Flöte von Dhola dem Wechselsritra zum Kontrollieren der Gradevas (Krone der Drachen)
 - Sigildorn (Smaskrifter)
+- 4 Pfirsichkerne, Tempel, linke Seite, NüFeiPai
+- 5 Glasperlen mit Teilen von Darschinn
+- 2 Eisenschlüssel von Pizee
+- Haushaltsbuch von Pizee
 
 **Im Lagerhaus von Ming:**
 - Steinherz von Odolens Skelett (Smaskrifter)
