@@ -17,9 +17,9 @@ Stand: Volk, Glaube: LiChia, Spezialisierung: Dolch
 
 **Last** Normal 20kg, Höchst 75kg, Schub 150kg
 
-**Abwehr** +14 Bonus +0 (+1 Blutsbruder) => +14 (+15)
+**Abwehr** +14 Bonus +1 (+1 Blutsbruder) => +15 (+16)
 
-**Resistenz** +13 Bonus +3 / +5 / +0 => +16 / +18 / +13 (Geist / Körper / Umgebung)
+**Resistenz** +13 Bonus +3 / +5 / +1 => +16 / +18 / +14 (Geist / Körper / Umgebung)
 
 **Zaubern** +17 Bonus +4 => +21   PP: + + + +
 
@@ -39,7 +39,7 @@ Stand: Volk, Glaube: LiChia, Spezialisierung: Dolch
 | Beschatten                            |    +(3)     |       |    +(3)    |              |
 | Erste Hilfe (1W6 LP + AP)             |     +13     |       |    +13     | + +          |
 | Erzählen                              |     +11     |  +1   |    +12     |              |
-| Fallen entdecken                      |    +(0)     |  +1   |    +(1)    |              |
+| Fallen entdecken                      |    +(0)     |       |    +(0)    |              |
 | Fallenmechanik                        |    +(0)     |       |    +(0)    |              |
 | Fallenstellen                         |    +(1)     |       |    +(1)    |              |
 | Fangen                                |    +(8)     |       |    +(8)    |              |
@@ -68,7 +68,7 @@ Stand: Volk, Glaube: LiChia, Spezialisierung: Dolch
 | Pflanzenkunde                         |     +8      |  +1   |     +9     |              |
 | Rechnen                               |     +9      |  +1   |    +10     |              |
 | Reiten                                |     +10     |       |    +10     |              |
-| Rudern                                |    +(3)     |  +1   |    +(4)    |              |
+| Rudern                                |    +(3)     |       |    +(3)    |              |
 | Sagenkunde                            |     +11     |  +1   |    +12     | +            |
 | Schleichen                            |    +(3)     |       |    +(3)    |              |
 | Schlittenfahren                       |    +(3)     |       |    +(3)    |              |
@@ -83,26 +83,26 @@ Stand: Volk, Glaube: LiChia, Spezialisierung: Dolch
 | Sprechen Moravisch                    |     +10     |  +1   |    +11     |              |
 | Sprechen Rawindi                      |     +10     |  +1   |    +11     |              |
 | Springen                              |     +12     |  +1   |    +13     |              |
-| Spurenlesen                           |    +(0)     |  +1   |    +(1)    |              |
+| Spurenlesen                           |    +(0)     |       |    +(0)    |              |
 | Stehlen                               |    +(3)     |       |    +(3)    |              |
 | Steinabreibung machen                 |    +(6)     |       |    +(6)    |              |
-| Suchen                                |    +(3)     |  +1   |    +(4)    |              |
+| Suchen                                |    +(3)     |       |    +(3)    |              |
 | Tanzen                                |    +(8)     |       |    +(8)    |              |
 | Tarnen                                |    +(3)     |       |    +(3)    |              |
 | Tauchen                               |    +(9)     |       |    +(9)    |              |
 | Tierkunde                             |     +11     |  +1   |    +12     | +            |
 | Trinken                               |    +(6)     |       |    +(6)    |              |
-| Verbergen                             |    +(3)     |  +1   |    +(4)    |              |
+| Verbergen                             |    +(3)     |       |    +(3)    |              |
 | Verführen                             |    +(3)     |  -2   |    +(1)    |              |
 | Verhören                              |    +(3)     |  -2   |    +(1)    |              |
 | Verkleiden                            |    +(5)     |       |    +(5)    |              |
 | Wagenlenken                           |    +(3)     |       |    +(3)    |              |
-| Wahrnehmung                           |    +(2)     |  +1   |    +(3)    |              |
+| Wahrnehmung                           |    +(2)     |       |    +(2)    |              |
 | Werfen                                |    +(4)     |       |    +(4)    |              |
 | Winden                                |    +(0)     |       |    +(0)    |              |
 | Zauberkunde                           |     +12     |  +1   |    +13     | +            |
 | Zauberschrift lesen                   |     +11     |  +1   |    +12     |              |
-| Überleben Gebirge (Heimat)            |    +(6)     |  +1   |    +(7)    |              |
+| Überleben Gebirge (Heimat)            |    +(6)     |       |    +(6)    |              |
 | Überleben Wüste                       |     +12     |  +1   |    +13     |              |
 
 ## Waffenfertigkeiten
