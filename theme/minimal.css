@@ -1,0 +1,15 @@
+body {
+	font-family: sans-serif;
+	color: #2c3539;
+}
+table {
+	border: 1px solid #3d3c3a;
+}
+table th,
+table td {
+	border: 1px solid #3d3c3a;
+	padding: 2px;
+}
+table th {
+	background-color: #e5e4e2;
+}
