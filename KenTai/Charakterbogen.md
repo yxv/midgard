@@ -21,9 +21,9 @@ Stand: Volk, Glaube: LiChia, Spezialisierung: Dolch
 
 **Resistenz** +13 Bonus +3 / +5 / +1 => +16 / +18 / +14 (Geist / Körper / Umgebung)
 
-**Zaubern** +17 Bonus +4 => +21   PP: + + + +
+**Zaubern** +17 Bonus +4 => +21   PP: + + + + +
 
-**Boni** Ausdauer +3  Schaden +3  Angriff +0   Göttliche Gnade 3   Schicksalsgunst 5
+**Boni** Ausdauer +3  Schaden +3  Angriff +0   Göttliche Gnade 6   Schicksalsgunst 5
 
 **LP** 15
 
@@ -51,7 +51,7 @@ Stand: Volk, Glaube: LiChia, Spezialisierung: Dolch
 | Heilkunde                             |     +14     |  +1   |    +15     | + + + + +    |
 | Himmelskunde                          |     +13     |  +1   |    +14     |              |
 | Kamelreiten                           |     +10     |       |    +10     |              |
-| Kampftaktik                           |     +14     |  -2   |    +12     |              |
+| Kampftaktik                           |     +14     |  -2   |    +12     | +            |
 | Kanthanische Schrift (Kanzleischrift) |     +13     |  +1   |    +14     |              |
 | Kenntnis der 5 Klassiker              |     +11     |  +1   |    +12     | +            |
 | Klettern                              |     +14     |  +1   |    +15     |              |
