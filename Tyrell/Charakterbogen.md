@@ -1,6 +1,6 @@
-# Tyrell MacTuron - Priester des Irindar - Grad 1
+# Tyrell von Craenhold - Priester des Irindar - Grad 1
 ---
-Geburtsdatum: 00.00.0000, rechtshändig, Spezies: Mensch  
+Geburtsdatum: 02.06.2394, rechtshändig, Spezies: Mensch  
 Größe: 180cm (mittel), Gewicht: 79kg (normal)  
 Stand: Volk, Beruf: Wundheiler, Heimat: Alba, Glaube: Irindar
 
@@ -46,7 +46,7 @@ Stand: Volk, Beruf: Wundheiler, Heimat: Alba, Glaube: Irindar
 | Geheimmechanismus öffnen         |    +(1)     |       |    +(1)    |              |
 | Geländelauf                      |    +(8)     |       |    +(8)    |              |
 | Kampf zu Pferd                   |     +15     |  +1   |    +16     |              |
-| Kampftaktik                      |    +(5)     |       |    +(5     |              |
+| Kampftaktik                      |    +(5)     |       |    +(5)    |              |
 | Klettern                         |    +(8)     |       |    +(8)    |              |
 | Landeskunde Alba (Heimat)        |    +(8)     |       |    +(8)    |              |
 | Menschenkenntnis                 |    +(3)     |       |    +(3)    |              |
@@ -102,9 +102,9 @@ Stand: Volk, Beruf: Wundheiler, Heimat: Alba, Glaube: Irindar
 
 **Rüstung** Textilrüstung -1 LP-Verlust
 
-|       Waffe       | Angriff | Schaden |  WR  |
-| :---------------: | :-----: | :-----: | :--: |
-| waffenloser Kampf |         |         |  +2  |
-|     Stoßspeer     |         |         |      |
-|       Dolch       |         |         |      |
-|   Großes Schild   |         |         |      |
+|       Waffe         | Angriff | Schaden |  WR  |
+| :-----------------: | :-----: | :-----: | :--: |
+| waffenloser Kampf   |         |         |  +2  |
+| geweihter Stoßspeer |         |         |      |
+|       Dolch         |         |         |      |
+|   Großes Schild     |         |         |      |
