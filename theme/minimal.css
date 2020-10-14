@@ -1,15 +1,22 @@
 body {
-	font-family: sans-serif;
-	color: #2c3539;
+  font-family: noto sans, sans-serif;
+  color: #222222;
 }
+
 table {
-	border: 1px solid #3d3c3a;
+  border: 1px solid DimGrey;
 }
+
 table th,
 table td {
-	border: 1px solid #3d3c3a;
-	padding: 2px;
+  border: 1px solid DimGrey;
+  padding: 2px 5px;
 }
+
 table th {
-	background-color: #e5e4e2;
+  background-color: Gainsboro;
+}
+
+tr:nth-child(even) {
+  background: WhiteSmoke;
 }

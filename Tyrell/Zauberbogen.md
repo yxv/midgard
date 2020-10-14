@@ -1,4 +1,4 @@
-# Tyrell MacTuron - Priester des Irindar - Grad 1
+# Tyrell von Craenhold - Priester des Irindar - Grad 1
 ---
 
 ## Zaubersprüche

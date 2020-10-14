@@ -31,7 +31,7 @@ Stand: Volk, Beruf: Wundheiler, Heimat: Alba, Glaube: Irindar
 
 ## Fertigkeiten
 | Fertigkeit                        | Erfolgswert | Bonus | Gesamtwert | Praxispunkte |
-| --------------------------------- | :---------: | :---: | :--------: | ------------ |
+| --------------------------------- | :---------: | :---: | :--------: | :----------: |
 | Akrobatik                         |    +(8)     |       |    +(8)    |              |
 | Balancieren                       |    +(8)     |       |    +(8)    |              |
 | Baukunde                          |    +(0)     |       |    +(0)    |              |
