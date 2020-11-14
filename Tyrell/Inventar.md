@@ -1,11 +1,15 @@
-# Tyrell von Craenhold - Priester des Irindar - Grad 1
+# Tyrell von Craenhold - Priester des Irindar - Grad 3
+
 ---
 
 ## Inventar
+
 **Geldbeutel:**
-- derzeit alles in der Gruppenkasse
+
+- 198GS
 
 **Im Rucksack:**
+
 - warme Decke
 - regenfeste Plane
 - Erste-Hilfe-Ausrüstung
@@ -14,11 +18,8 @@
 - Wasserschlauch 5 Liter
 - Laterne
 - Lampenöl 4 Liter (verbraucht 1L pro tag)
-- Würfel aus Knochen, 1cm Kantenlänge, Hügelgrab
-- Dreieckiger Stab mit 2mm Loch am Ende, Kiste der Frau, Hügelgrab
 - Silberner Armreif, Zeichen als Freund der Zwerge für die Rettung von Baldur (30GS)
 - 2 kleine Phiolen mit Krafttrunk 1W6 AP
-
 
 ---
 
@@ -40,4 +41,5 @@ Vertrautheit +4
 Ruhe +2
 
 **Pferdetasche:**
+
 - Ein paar Karotten
