@@ -4,7 +4,7 @@
 
 ## Zaubersprüche
 
-#### Bannen von Finsterwerk
+### Bannen von Finsterwerk
 
 Wortzauber der Stufe 2  
 Zerstören: Magan => Magan
@@ -19,7 +19,7 @@ Zerstören: Magan => Magan
 
 Mit diesem Zauber kann ein Priester, Heiler oder Ordenskrieger schwarzmagische Sprüche und Flüche leichter aufheben als mit _Bannen von Zauberwerk_. Über seinen Erfolg entscheidet ein Zauberduell, bei dem der Zauberer selbst +4 auf seinen EW:Zaubern erhält.
 
-#### Segnen
+### Segnen
 
 Gestenzauber der Stufe 2  
 Verändern: Luft => Wasser
@@ -34,7 +34,7 @@ Verändern: Luft => Wasser
 
 Der Segen stärkt die Anima und macht sie widerstandsfähiger gegen Zauberei und andere Bedrohungen. Außerdem entwickelt sie einen wenn auch schwachen Sinn für Gefahren, der den Gesegneten instinktiv schnelleer und richtiger reagieren lässt. Er erhält so +1 auf alle Erfolgs- und Widerstandswürfe und -5 auf alle Prüfwürfe, die er während der Wirkungsdauer des _Segens_ macht.
 
-#### Heilen von Wunden
+### Heilen von Wunden
 
 Gestenzauber der Stufe 2  
 Erschaffen: Holz => Erde
@@ -49,7 +49,7 @@ Erschaffen: Holz => Erde
 
 Heilt 1W6 LP und AP, nur alle 3 Tage.
 
-#### Erkennen der Aura
+### Erkennen der Aura
 
 Gedankenzauber der Stufe 1  
 Erkennen: Luft => Luft
@@ -64,7 +64,7 @@ Erkennen: Luft => Luft
 
 Der Zauberer spürt, wenn sich im Wirkungsbereich ein Wesen oder Gegenstand mit einer übernatürlichen Aura befindet.
 
-#### Zauberschlüssel
+### Zauberschlüssel
 
 Gestenzauber der Stufe 2
 Bewegen: Magan => Holz
