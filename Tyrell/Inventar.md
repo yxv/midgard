@@ -6,7 +6,7 @@
 
 **Geldbeutel:**
 
-- 198GS
+- 588GS
 
 **Im Rucksack:**
 
@@ -19,7 +19,7 @@
 - Laterne
 - Lampenöl 4 Liter (verbraucht 1L pro tag)
 - Silberner Armreif, Zeichen als Freund der Zwerge für die Rettung von Baldur (30GS)
-- 2 kleine Phiolen mit Krafttrunk 1W6 AP
+- Schriftrolle: Eisiger Nebel
 
 ---
 
