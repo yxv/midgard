@@ -24,7 +24,7 @@ Stand: Volk, Beruf: Wundheiler, Heimat: Alba, Glaube: Irindar
 
 **Resistenz** +11 Bonus +4 / +4 / +4 => +15 / +15 / +15 (Geist / Körper / Umgebung)
 
-**Zaubern** +13 Bonus +2 => +15
+**Zaubern** +13 Bonus +2 => +15 PP: 2
 
 **Boni** Ausdauer +3 Schaden +4 Angriff +1 Göttliche Gnade 0 Schicksalsgunst 0
 
@@ -53,7 +53,7 @@ Stand: Volk, Beruf: Wundheiler, Heimat: Alba, Glaube: Irindar
 | Kampftaktik                          |    +(5)     |       |    +(5)    |              |
 | Klettern                             |    +(8)     |       |    +(8)    |              |
 | Landeskunde Alba (Heimat)            |    +(8)     |       |    +(8)    |              |
-| **Lesen von Zauberschrift**          |     +13     |       |    +13     |              |
+| **Lesen von Zauberschrift**          |     +13     |  +0   |    +13     |              |
 | Menschenkenntnis                     |    +(3)     |       |    +(3)    |              |
 | Meucheln / Betäuben                  |   +(0/6)    |       |   +(0/6)   |              |
 | Naturkunde                           |    +(0)     |       |    +(0)    |              |
@@ -100,7 +100,7 @@ Stand: Volk, Beruf: Wundheiler, Heimat: Alba, Glaube: Irindar
 | Fertigkeit    |      Erfolgswert      | Bonus | Gesamtwert | Praxispunkte |
 | ------------- | :-------------------: | :---: | :--------: | :----------: |
 | Dolch         |          +4           |  +1   |     +5     |              |
-| Stoßspeer     |          +10          |  +1   |    +11     |              |
+| Stoßspeer     |          +10          |  +1   |    +11     |  2           |
 | Großes Schild | +1 / +2 mit 3er Bonus |       |            |              |
 
 ## Waffen
