@@ -22,3 +22,4 @@
 |            | 520 |  0  |  0  | 53  | Erkennen der Aura                |
 |            | 540 |  0  |  0  | 33  | AP steigern                      |
 |            | 560 |  0  |  0  | 13  | Zaubern +13                      |
+| 16.07.2417 | 560 | 81  | 59  | 163 | **Blutmond**                     |
