@@ -24,7 +24,7 @@ Stand: Volk, Beruf: Wundheiler, Heimat: Alba, Glaube: Irindar
 
 **Resistenz** +11 Bonus +4 / +4 / +4 => +15 / +15 / +15 (Geist / Körper / Umgebung)
 
-**Zaubern** +13 Bonus +2 => +15 PP: 2
+**Zaubern** +13 Bonus +2 => +15 PP: 3
 
 **Boni** Ausdauer +3 Schaden +4 Angriff +1 Göttliche Gnade 0 Schicksalsgunst 0
 
@@ -39,9 +39,9 @@ Stand: Volk, Beruf: Wundheiler, Heimat: Alba, Glaube: Irindar
 | Akrobatik                            |    +(8)     |       |    +(8)    |              |
 | Balancieren                          |    +(8)     |       |    +(8)    |              |
 | Baukunde                             |    +(0)     |       |    +(0)    |              |
-| **Beredsamkeit**                     |     +6      |  +0   |     +6     |              |
+| **Beredsamkeit**                     |     +6      |  +0   |     +6     | 1            |
 | Beschatten                           |    +(3)     |       |    +(3)    |              |
-| **Erste Hilfe (1W6 LP + AP)**        |     +6      |  +1   |     +7     |              |
+| **Erste Hilfe (1W6 LP + AP)**        |     +6      |  +1   |     +7     | 1            |
 | Erzählen                             |    +(4)     |       |    +(4)    |              |
 | Fallen entdecken                     |    +(0)     |       |    +(0)    |              |
 | Fallenmechanik                       |    +(0)     |       |    +(0)    |              |
@@ -53,7 +53,7 @@ Stand: Volk, Beruf: Wundheiler, Heimat: Alba, Glaube: Irindar
 | Kampftaktik                          |    +(5)     |       |    +(5)    |              |
 | Klettern                             |    +(8)     |       |    +(8)    |              |
 | Landeskunde Alba (Heimat)            |    +(8)     |       |    +(8)    |              |
-| **Lesen von Zauberschrift**          |     +13     |  +0   |    +13     |              |
+| **Lesen von Zauberschrift**          |     +14     |  +0   |    +14     |              |
 | Menschenkenntnis                     |    +(3)     |       |    +(3)    |              |
 | Meucheln / Betäuben                  |   +(0/6)    |       |   +(0/6)   |              |
 | Naturkunde                           |    +(0)     |       |    +(0)    |              |
@@ -100,16 +100,18 @@ Stand: Volk, Beruf: Wundheiler, Heimat: Alba, Glaube: Irindar
 | Fertigkeit    |      Erfolgswert      | Bonus | Gesamtwert | Praxispunkte |
 | ------------- | :-------------------: | :---: | :--------: | :----------: |
 | Dolch         |          +4           |  +1   |     +5     |              |
-| Stoßspeer     |          +10          |  +1   |    +11     |  2           |
+| Stoßspeer     |          +10          |  +1   |    +11     |  3           |
 | Großes Schild | +1 / +2 mit 3er Bonus |       |            |              |
 
 ## Waffen
 
-**Rüstung** Lederrüstung mit Helm und Nackenschutz -2 LP-Verlust
+**Rüstung** Lederrüstung mit Helm, Nackenschutz, Arm- und Beinschienen (-2 LP-Verlust)
 
 |                Waffe                |    Angriff / Abwehr    | Schaden | WR  |
 | :---------------------------------: | :--------------------: | :-----: | :-: |
 |          waffenloser Kampf          |           +4           |         | +2  |
 |                Dolch                |           +5           |         |     |
-| geweihter Stoßspeer (nicht magisch) |          +11           |  1W6+4  |     |
-|            Großes Schild            | +14 / +15 mit 3erBonus |         |     |
+| geweihter Stoßspeer (nicht magisch) |          +11           |  1W6+4  | +2  |
+| Sturmangriff                        | +11                    |  2W6+4  |     |
+| Abwehr ohne Schild                  | +13                    |         |     |
+| Großes Schild (Speer Symbol)        | +14 / +15 mit 3erBonus |         |     |

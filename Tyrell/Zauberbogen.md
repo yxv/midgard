@@ -77,6 +77,41 @@ Bewegen: Magan => Holz
 **Wirkungsdauer:** 0  
 **Ursprung:** dämonisch
 
-**Material:** Springwurzspan (5GS)
+**Material:** Springwurzspan (5GS) 10x
 
 Mit diesem Spruch lassen sich magisch verschlossene Türen, Fenster, Kisten und ähnliches öffnen. Ein Zauberduell entscheidet, ob der _Zauberschlüssel_ gegen ein _Zauberschloss_ wirkt.
+
+### Bannen von Dunkelheit
+
+Wortzauber der Stufe 1
+Erschaffen: Feuer => Feuer
+
+**AP-Verbrauch:** 1  
+**Zauberdauer:** 1sec  
+**Reichweite:** 0m  
+**Wirkungsziel:** Umgebung  
+**Wirkungsbereich:** 9m Umkreis  
+**Wirkungsdauer:** 10min  
+**Ursprung:** göttlich
+
+Der Wirkungsbereich wird von trübem Tageslicht erhellt. Es ist keine Lichtquelle zu erkennen. Objekte haben keinen Schatten. Der Zauberer muss sich nicht auf den Spruch konzentrieren.
+
+### Austreibung des Bösen
+
+Wortzauber der Stufe 2
+Bewegen: Magan => Feuer
+
+**AP-Verbrauch:** 5  
+**Zauberdauer:** 10sec  
+**Reichweite:** 15m  
+**Wirkungsziel:** Körper  
+**Wirkungsbereich:** 1 Wesen  
+**Wirkungsdauer:** 10min  
+**Ursprung:** göttlich
+
+Mit Austreibung des Bösen kann der Zauberer von Dämonen oder den Geistern Verstorbener besessene Wesen oder Gegenstände befreien, und er kann Dämonen vom Boden Midgards verbannen.
+Es bildet sich eine 3m durchmessende Kugel aus goldenen Lichtfäden. 10min in der Kugel gefangen. Am Ende WW:Resistenz für das übernatürliche Wesen.
+
+---
+
+Auswirkung von einem kritischen Misserfolg: -4 bei Wundertaten

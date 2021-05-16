@@ -22,4 +22,8 @@
 |            | 520 |  0  |  0  | 53  | Erkennen der Aura                |
 |            | 540 |  0  |  0  | 33  | AP steigern                      |
 |            | 560 |  0  |  0  | 13  | Zaubern +13                      |
-| 16.07.2417 | 560 | 81  | 59  | 163 | **Blutmond**                     |
+| 16.07.2417 | 560 | 81  | 59  | 168 | **Blutmond**                     |
+|            | 585 | 81  | 34  | 168 | gescheiterte Spruchrolle         |
+|            | 635 | 81  | 18  | 168 | Bannen von Dunkelheit            |
+|            | 885 | 81  |  0  | 103 | Austreibung des Bösen            |
+|            | 910 | 81  |  0  | 95  | Lesen von Zauberschrift +14      |
