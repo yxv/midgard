@@ -1,4 +1,4 @@
-# Tyrell von Craenhold - Priester des Irindar - Grad 3
+# Tyrell von Craenhold - Priester des Irindar - Grad 4
 
 ---
 
@@ -24,9 +24,9 @@ Stand: Volk, Beruf: Wundheiler, Heimat: Alba, Glaube: Irindar
 
 **Resistenz** +11 Bonus +4 / +4 / +4 => +15 / +15 / +15 (Geist / Körper / Umgebung)
 
-**Zaubern** +13 Bonus +2 => +15 PP: 3
+**Zaubern** +14 Bonus +2 => +16 PP: 1
 
-**Boni** Ausdauer +3 Schaden +4 Angriff +1 Göttliche Gnade 0 Schicksalsgunst 0
+**Boni** Ausdauer +3 Schaden +4 Angriff +1 Göttliche Gnade 0 Schicksalsgunst 1
 
 **LP** 14
 
@@ -39,9 +39,9 @@ Stand: Volk, Beruf: Wundheiler, Heimat: Alba, Glaube: Irindar
 | Akrobatik                            |    +(8)     |       |    +(8)    |              |
 | Balancieren                          |    +(8)     |       |    +(8)    |              |
 | Baukunde                             |    +(0)     |       |    +(0)    |              |
-| **Beredsamkeit**                     |     +6      |  +0   |     +6     | 1            |
+| **Beredsamkeit**                     |     +7      |  +0   |     +7     |              |
 | Beschatten                           |    +(3)     |       |    +(3)    |              |
-| **Erste Hilfe (1W6 LP + AP)**        |     +6      |  +1   |     +7     | 1            |
+| **Erste Hilfe (1W6 LP + AP)**        |     +7      |  +1   |     +8     |              |
 | Erzählen                             |    +(4)     |       |    +(4)    |              |
 | Fallen entdecken                     |    +(0)     |       |    +(0)    |              |
 | Fallenmechanik                       |    +(0)     |       |    +(0)    |              |
@@ -71,7 +71,7 @@ Stand: Volk, Beruf: Wundheiler, Heimat: Alba, Glaube: Irindar
 | **Singen**                           |     +8      |  +0   |     +8     |              |
 | **Sprechen Albisch (Muttersprache)** |     +18     |  +0   |    +18     |              |
 | **Sprechen Comentang**               |     +12     |  +0   |    +12     |              |
-| **Sprechen Dwarska**                 |     +4      |  +0   |     +4     |              |
+| **Sprechen Dwarska**                 |     +4      |  +0   |     +4     | 1            |
 | **Sprechen Twynedisch**              |     +6      |  +0   |     +6     |              |
 | Springen                             |    +(8)     |       |    +(8)    |              |
 | Spurenlesen                          |    +(0)     |       |    +(0)    |              |
@@ -109,9 +109,9 @@ Stand: Volk, Beruf: Wundheiler, Heimat: Alba, Glaube: Irindar
 
 |                Waffe                |    Angriff / Abwehr    | Schaden | WR  |
 | :---------------------------------: | :--------------------: | :-----: | :-: |
-|          waffenloser Kampf          |           +4           |         | +2  |
-|                Dolch                |           +5           |         |     |
-| geweihter Stoßspeer (nicht magisch) |          +11           |  1W6+4  | +2  |
+| waffenloser Kampf                   | +4                     |         | +2  |
+| Dolch                               | +5                     |         |     |
+| geweihter Stoßspeer (nicht magisch) | +11                    |  1W6+4  | +2  |
 | Sturmangriff                        | +11                    |  2W6+4  |     |
 | Abwehr ohne Schild                  | +13                    |         |     |
 | Großes Schild (Speer Symbol)        | +14 / +15 mit 3erBonus |         |     |

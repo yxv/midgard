@@ -1,4 +1,4 @@
-# Tyrell von Craenhold - Priester des Irindar - Grad 3
+# Tyrell von Craenhold - Priester des Irindar - Grad 4
 
 ---
 
@@ -111,6 +111,22 @@ Bewegen: Magan => Feuer
 
 Mit Austreibung des Bösen kann der Zauberer von Dämonen oder den Geistern Verstorbener besessene Wesen oder Gegenstände befreien, und er kann Dämonen vom Boden Midgards verbannen.
 Es bildet sich eine 3m durchmessende Kugel aus goldenen Lichtfäden. 10min in der Kugel gefangen. Am Ende WW:Resistenz für das übernatürliche Wesen.
+
+### Heiliger Zorn
+
+Gedankenzauber der Stufe 1
+Verändern: Luft => Erde
+
+**AP-Verbrauch:** 1  
+**Zauberdauer:** 1sec  
+**Reichweite:** -  
+**Wirkungsziel:** Körper  
+**Wirkungsbereich:** Zauberer  
+**Wirkungsdauer:** 2min  
+**Ursprung:** göttlich
+
+Der Zauberer wird von gerechtem Zorn gepackt, so dass seine Stärke kurzzeitig um 30 Punkte - maximal aber auf den Wert 100 - wächst. Dies hat insbesondere Auswirkungen auf Kraftakte 
+und den im Nahkampf angerichteten Schaden. Außerdem steigt sein Erfolgswert für Raufen um +2.
 
 ---
 

@@ -1,4 +1,4 @@
-# Tyrell von Craenhold - Priester des Irindar - Grad 3
+# Tyrell von Craenhold - Priester des Irindar - Grad 4
 
 ---
 
@@ -27,3 +27,8 @@
 |            | 635 | 81  | 18  | 168 | Bannen von Dunkelheit            |
 |            | 885 | 81  |  0  | 103 | Austreibung des Bösen            |
 |            | 910 | 81  |  0  | 95  | Lesen von Zauberschrift +14      |
+| 26.09.2417 | 910 | 81  |  0  | 95  | **Bluttränen**                   |
+|            | 960 | 81  |  0  | 85  | Beredsamkeit +7 (mit PP)         |
+|            |1010 | 81  |  0  | 75  | Erste Hilfe +7 (mit PP)          |
+|            |1040 | 81  |  0  | 75  | Zaubern +14 (mit PP)             |
+|            |1090 | 81  |  0  | 75  | Heiliger Zorn (mit PP)           |
