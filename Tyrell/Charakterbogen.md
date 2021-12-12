@@ -1,4 +1,4 @@
-# Tyrell von Craenhold - Priester des Irindar - Grad 4
+# Tyrell von Craenhold - Priester des Irindar - Grad 5
 
 ---
 
@@ -20,38 +20,38 @@ Stand: Volk, Beruf: Wundheiler, Heimat: Alba, Glaube: Irindar
 
 **Last** Normal ?kg, Höchst ?kg, Schub ?kg
 
-**Abwehr** +12 Bonus +1 => +13
+**Abwehr** +13 Bonus +1 => +14
 
-**Resistenz** +11 Bonus +4 / +4 / +4 => +15 / +15 / +15 (Geist / Körper / Umgebung)
+**Resistenz** +12 Bonus +4 / +4 / +4 => +16 / +16 / +16 (Geist / Körper / Umgebung) PP: 0.5
 
-**Zaubern** +14 Bonus +2 => +16 PP: 1
+**Zaubern** +15 Bonus +2 => +17
 
-**Boni** Ausdauer +3 Schaden +4 Angriff +1 Göttliche Gnade 0 Schicksalsgunst 1
+**Boni** Ausdauer +3 Schaden +4 Angriff +1 Göttliche Gnade 1 Schicksalsgunst 1
 
 **LP** 14
 
-**AP** 17
+**AP** 27
 
 ## Fertigkeiten
 
 | Fertigkeit                           | Erfolgswert | Bonus | Gesamtwert | Praxispunkte |
 | ------------------------------------ | :---------: | :---: | :--------: | :----------: |
 | Akrobatik                            |    +(8)     |       |    +(8)    |              |
-| Balancieren                          |    +(8)     |       |    +(8)    |              |
+| **Balancieren**                      |     +12     |  +1   |    +13     |              |
 | Baukunde                             |    +(0)     |       |    +(0)    |              |
 | **Beredsamkeit**                     |     +7      |  +0   |     +7     |              |
 | Beschatten                           |    +(3)     |       |    +(3)    |              |
-| **Erste Hilfe (1W6 LP + AP)**        |     +7      |  +1   |     +8     |              |
+| **Erste Hilfe (1W6 LP + AP)**        |     +8      |  +1   |     +9     |              |
 | Erzählen                             |    +(4)     |       |    +(4)    |              |
 | Fallen entdecken                     |    +(0)     |       |    +(0)    |              |
 | Fallenmechanik                       |    +(0)     |       |    +(0)    |              |
 | Fallenstellen                        |    +(1)     |       |    +(1)    |              |
-| Fangen                               |    +(8)     |       |    +(8)    |              |
+| **Fangen**                           |     +10     |  +1   |    +11     |              |
 | Geheimmechanismus öffnen             |    +(1)     |       |    +(1)    |              |
-| Geländelauf                          |    +(8)     |       |    +(8)    |              |
+| **Geländelauf**                      |     +12     |  +1   |    +13     |              |
 | **Kampf zu Pferd**                   |     +15     |  +1   |    +16     |              |
 | Kampftaktik                          |    +(5)     |       |    +(5)    |              |
-| Klettern                             |    +(8)     |       |    +(8)    |              |
+| **Klettern**                         |     +12     |  +0   |    +12     |              |
 | Landeskunde Alba (Heimat)            |    +(8)     |       |    +(8)    |              |
 | **Lesen von Zauberschrift**          |     +14     |  +0   |    +14     |              |
 | Menschenkenntnis                     |    +(3)     |       |    +(3)    |              |
@@ -66,14 +66,14 @@ Stand: Volk, Beruf: Wundheiler, Heimat: Alba, Glaube: Irindar
 | Schlösser öffnen                     |    +(0)     |       |    +(0)    |              |
 | **Schreiben Albisch**                |     +9      |  +0   |     +9     |              |
 | **Schreiben Altoqua**                |     +12     |  +0   |    +12     |              |
-| Schwimmen                            |    +(3)     |       |    +(3)    |              |
+| **Schwimmen**                        |     +12     |  +1   |    +13     |              |
 | Seilkunst                            |    +(4)     |       |    +(4)    |              |
 | **Singen**                           |     +8      |  +0   |     +8     |              |
 | **Sprechen Albisch (Muttersprache)** |     +18     |  +0   |    +18     |              |
 | **Sprechen Comentang**               |     +12     |  +0   |    +12     |              |
-| **Sprechen Dwarska**                 |     +4      |  +0   |     +4     | 1            |
+| **Sprechen Dwarska**                 |     +9      |  +0   |     +9     |              |
 | **Sprechen Twynedisch**              |     +6      |  +0   |     +6     |              |
-| Springen                             |    +(8)     |       |    +(8)    |              |
+| **Springen**                         |     +10     |  +0   |    +10     |              |
 | Spurenlesen                          |    +(0)     |       |    +(0)    |              |
 | Stehlen                              |    +(3)     |       |    +(3)    |              |
 | Suchen                               |    +(3)     |       |    +(3)    |              |
@@ -91,7 +91,7 @@ Stand: Volk, Beruf: Wundheiler, Heimat: Alba, Glaube: Irindar
 | Wahrnehmung                          |    +(2)     |       |    +(2)    |              |
 | Werfen                               |    +(4)     |       |    +(4)    |              |
 | Winden                               |    +(0)     |       |    +(0)    |              |
-| Zauberkunde                          |    +(0)     |       |    +(0)    |              |
+| **Zauberkunde**                      |    +7       |  +0   |    +7      |              |
 
 ## Waffenfertigkeiten
 
@@ -99,9 +99,9 @@ Stand: Volk, Beruf: Wundheiler, Heimat: Alba, Glaube: Irindar
 
 | Fertigkeit    |      Erfolgswert      | Bonus | Gesamtwert | Praxispunkte |
 | ------------- | :-------------------: | :---: | :--------: | :----------: |
-| Dolch         |          +4           |  +1   |     +5     |              |
-| Stoßspeer     |          +10          |  +1   |    +11     |  3           |
-| Großes Schild | +1 / +2 mit 3er Bonus |       |            |              |
+| Dolch         |          +9           |  +1   |    +10     |              |
+| Stoßspeer     |          +11          |  +1   |    +12     |              |
+| Großes Schild | +3 / +4 mit 3er Bonus |       |            |              |
 
 ## Waffen
 
@@ -110,8 +110,10 @@ Stand: Volk, Beruf: Wundheiler, Heimat: Alba, Glaube: Irindar
 |                Waffe                |    Angriff / Abwehr    | Schaden | WR  |
 | :---------------------------------: | :--------------------: | :-----: | :-: |
 | waffenloser Kampf                   | +4                     |         | +2  |
-| Dolch                               | +5                     |         |     |
-| geweihter Stoßspeer (nicht magisch) | +11                    |  1W6+4  | +2  |
-| Sturmangriff                        | +11                    |  2W6+4  |     |
-| Abwehr ohne Schild                  | +13                    |         |     |
-| Großes Schild (Speer Symbol)        | +14 / +15 mit 3erBonus |         |     |
+| magischer Dolch (+1/+0)             | +11                    |         |     |
+| geweihter Stoßspeer (nicht magisch) | +12                    |  1W6+4  | +2  |
+| Sturmangriff                        | +12                    |  2W6+4  |     |
+| Abwehr ohne Schild                  | +14                    |         |     |
+| Großes Schild (Speer Symbol)        | +17 / +18 mit 3erBonus |         |     |
+
+Der Dolch ist aus Corwins Turm (Bluttränen).

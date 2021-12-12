@@ -1,4 +1,4 @@
-# Tyrell von Craenhold - Priester des Irindar - Grad 4
+# Tyrell von Craenhold - Priester des Irindar - Grad 5
 
 ---
 
@@ -127,6 +127,22 @@ Verändern: Luft => Erde
 
 Der Zauberer wird von gerechtem Zorn gepackt, so dass seine Stärke kurzzeitig um 30 Punkte - maximal aber auf den Wert 100 - wächst. Dies hat insbesondere Auswirkungen auf Kraftakte 
 und den im Nahkampf angerichteten Schaden. Außerdem steigt sein Erfolgswert für Raufen um +2.
+
+### Heiliges Wort
+
+Wortzauber der Stufe 4
+Zerstören: Metall => Magan
+
+**AP-Verbrauch:** 6  
+**Zauberdauer:** 5sec  
+**Reichweite:** -  
+**Wirkungsziel:** Körper  
+**Wirkungsbereich:** 9m Umkreis  
+**Wirkungsdauer:** variable  
+**Ursprung:** göttlich
+
+Der Zauber wirkt gegen alle Geschöpfe mit einer finsteren Aura. Bis Grad 3 getötet bzw verbannt, Grad 4-6 1W6 x 10min gelähmt, 
+Grad 7-9 2W6 x 10sec wehrlos, ab Grad 10 1W6 x 10sec -2 auf alle EW.
 
 ---
 

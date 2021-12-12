@@ -1,4 +1,4 @@
-# Tyrell von Craenhold - Priester des Irindar - Grad 4
+# Tyrell von Craenhold - Priester des Irindar - Grad 5
 
 ---
 
@@ -32,3 +32,21 @@
 |            |1010 | 81  |  0  | 75  | Erste Hilfe +7 (mit PP)          |
 |            |1040 | 81  |  0  | 75  | Zaubern +14 (mit PP)             |
 |            |1090 | 81  |  0  | 75  | Heiliger Zorn (mit PP)           |
+| 23.10.2417 |1090 | 508 | 254 | 308 | **Bluttränen**                   |
+|            |1110 | 508 | 254 | 308 | Resistenz +12 (0.5PP)            |
+|            |1130 | 501 | 254 | 308 | Abwehr +13                       |
+|            |1180 | 501 | 254 | 298 | Erste Hilfe +8 (1PP)             |
+|            |1250 | 501 | 224 | 298 | Sprechen: Dvarska +9 (1PP)       |
+|            |1570 | 328 | 224 | 298 | Stoßspeer +11 (3PP)              |
+|            |1690 | 301 | 224 | 298 | Gr. Schild+3 (1PP)               |
+|            |1785 | 269 | 224 | 298 | Dolch +9                         |
+|            |1855 | 199 | 224 | 298 | AP=27 (Gr5)                      |
+|            |1925 | 199 | 194 | 298 | Zaubern +15 (1PP)                |
+|            |2175 | 199 | 110 | 298 | Zauberkunde+7                    |
+|            |2875 | 199 |   0 |   0 | Heiliges Wort (1PP)              |
+|            |2975 | 165 |   0 |   0 | Klettern +12                     |
+|            |3075 | 131 |   0 |   0 | Geländelauf +12                  |
+|            |3195 |  91 |   0 |   0 | Springen +10                     |
+|            |3295 |  57 |   0 |   0 | Balancieren +12                  |
+|            |3395 |  23 |   0 |   0 | Schwimmen +12                    |
+|            |3455 |   3 |   0 |   0 | Fangen +10                       |

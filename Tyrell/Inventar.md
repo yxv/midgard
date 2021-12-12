@@ -1,4 +1,4 @@
-# Tyrell von Craenhold - Priester des Irindar - Grad 4
+# Tyrell von Craenhold - Priester des Irindar - Grad 5
 
 ---
 
@@ -6,7 +6,8 @@
 
 **Geldbeutel:**
 
-- 43GS
+- 27GS
+- 6SS
 
 **Im Rucksack:**
 
@@ -19,9 +20,9 @@
 - Laterne
 - Lampenöl 4 Liter (verbraucht 1L pro tag)
 - Silberner Armreif, Zeichen als Freund der Zwerge für die Rettung von Baldur (30GS)
-- Phiole mit Gegengift 'Kalter Atem'
-- Blutträne aus Zwergenwerkstatt
-- Smaragd 800GS von Zwergenvettel
+- Wolfsmaske mit Umhang (Wandbehang) zum Durchblicken (Reichweite 500km)
+- Heiltrunk
+- Krafttrunk
 
 ---
 
