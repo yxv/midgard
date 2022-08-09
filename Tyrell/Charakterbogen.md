@@ -1,4 +1,4 @@
-# Tyrell von Craenhold - Priester des Irindar - Grad 5
+# Tyrell von Craenhold - Priester des Irindar - Grad 6
 
 ---
 
@@ -20,17 +20,17 @@ Stand: Volk, Beruf: Wundheiler, Heimat: Alba, Glaube: Irindar
 
 **Last** Normal ?kg, Höchst ?kg, Schub ?kg
 
-**Abwehr** +13 Bonus +1 => +14
+**Abwehr** +14 Bonus +1 => +15
 
-**Resistenz** +12 Bonus +4 / +4 / +4 => +16 / +16 / +16 (Geist / Körper / Umgebung) PP: 0.5
+**Resistenz** +13 Bonus +4 / +4 / +4 => +17 / +17 / +17 (Geist / Körper / Umgebung)
 
-**Zaubern** +15 Bonus +2 => +17
+**Zaubern** +16 Bonus +2 => +18
 
-**Boni** Ausdauer +3 Schaden +4 Angriff +1 Göttliche Gnade 1 Schicksalsgunst 1
+**Boni** Ausdauer +3 Schaden +4 Angriff +1 Göttliche Gnade 1 Schicksalsgunst 2
 
 **LP** 14
 
-**AP** 27
+**AP** 37
 
 ## Fertigkeiten
 
@@ -41,7 +41,7 @@ Stand: Volk, Beruf: Wundheiler, Heimat: Alba, Glaube: Irindar
 | Baukunde                             |    +(0)     |       |    +(0)    |              |
 | **Beredsamkeit**                     |     +7      |  +0   |     +7     |              |
 | Beschatten                           |    +(3)     |       |    +(3)    |              |
-| **Erste Hilfe (1W6 LP + AP)**        |     +8      |  +1   |     +9     |              |
+| **Erste Hilfe (1W6 LP + AP)**        |     +9      |  +1   |    +10     |              |
 | Erzählen                             |    +(4)     |       |    +(4)    |              |
 | Fallen entdecken                     |    +(0)     |       |    +(0)    |              |
 | Fallenmechanik                       |    +(0)     |       |    +(0)    |              |
@@ -54,7 +54,7 @@ Stand: Volk, Beruf: Wundheiler, Heimat: Alba, Glaube: Irindar
 | **Klettern**                         |     +12     |  +0   |    +12     |              |
 | Landeskunde Alba (Heimat)            |    +(8)     |       |    +(8)    |              |
 | **Lesen von Zauberschrift**          |     +14     |  +0   |    +14     |              |
-| Menschenkenntnis                     |    +(3)     |       |    +(3)    |              |
+| **Menschenkenntnis**                 |     +4      |  +0   |     +4     |      1       |
 | Meucheln / Betäuben                  |   +(0/6)    |       |   +(0/6)   |              |
 | Naturkunde                           |    +(0)     |       |    +(0)    |              |
 | Pflanzenkunde                        |    +(0)     |       |    +(0)    |              |
@@ -91,7 +91,7 @@ Stand: Volk, Beruf: Wundheiler, Heimat: Alba, Glaube: Irindar
 | Wahrnehmung                          |    +(2)     |       |    +(2)    |              |
 | Werfen                               |    +(4)     |       |    +(4)    |              |
 | Winden                               |    +(0)     |       |    +(0)    |              |
-| **Zauberkunde**                      |    +7       |  +0   |    +7      |              |
+| **Zauberkunde**                      |     +8      |  +0   |     +8     |      1       |
 
 ## Waffenfertigkeiten
 
@@ -100,20 +100,19 @@ Stand: Volk, Beruf: Wundheiler, Heimat: Alba, Glaube: Irindar
 | Fertigkeit    |      Erfolgswert      | Bonus | Gesamtwert | Praxispunkte |
 | ------------- | :-------------------: | :---: | :--------: | :----------: |
 | Dolch         |          +9           |  +1   |    +10     |              |
-| Stoßspeer     |          +11          |  +1   |    +12     |              |
+| Stoßspeer     |          +11          |  +1   |    +12     |      2       |
 | Großes Schild | +3 / +4 mit 3er Bonus |       |            |              |
 
 ## Waffen
 
 **Rüstung** Lederrüstung mit Helm, Nackenschutz, Arm- und Beinschienen (-2 LP-Verlust)
 
-|                Waffe                |    Angriff / Abwehr    | Schaden | WR  |
-| :---------------------------------: | :--------------------: | :-----: | :-: |
-| waffenloser Kampf                   | +4                     |         | +2  |
-| magischer Dolch (+1/+0)             | +11                    |         |     |
-| geweihter Stoßspeer (nicht magisch) | +12                    |  1W6+4  | +2  |
-| Sturmangriff                        | +12                    |  2W6+4  |     |
-| Abwehr ohne Schild                  | +14                    |         |     |
-| Großes Schild (Speer Symbol)        | +17 / +18 mit 3erBonus |         |     |
+|                Waffe                |    Angriff / Abwehr    | Schaden |  WR  |
+| :---------------------------------: | :--------------------: | :-----: | :--: |
+|          waffenloser Kampf          |           +4           |  1W6-1  |  +2  |
+|                Dolch                |          +10           |  1W6+3  |      |
+| geweihter Stoßspeer (nicht magisch) |          +12           |  1W6+4  |  +2  |
+|            Sturmangriff             |          +12           |  2W6+4  |      |
+|         Abwehr ohne Schild          |          +15           |         |      |
+|    Großes Schild (Speer Symbol)     | +18 / +19 mit 3erBonus |         |      |
 
-Der Dolch ist aus Corwins Turm (Bluttränen).

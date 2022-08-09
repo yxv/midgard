@@ -1,4 +1,4 @@
-# Tyrell von Craenhold - Priester des Irindar - Grad 5
+# Tyrell von Craenhold - Priester des Irindar - Grad 6
 
 ---
 
@@ -143,6 +143,8 @@ Zerstören: Metall => Magan
 
 Der Zauber wirkt gegen alle Geschöpfe mit einer finsteren Aura. Bis Grad 3 getötet bzw verbannt, Grad 4-6 1W6 x 10min gelähmt, 
 Grad 7-9 2W6 x 10sec wehrlos, ab Grad 10 1W6 x 10sec -2 auf alle EW.
+
+### Heilen schwerer Wunden
 
 ---
 

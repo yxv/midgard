@@ -1,4 +1,4 @@
-# Tyrell von Craenhold - Priester des Irindar - Grad 5
+# Tyrell von Craenhold - Priester des Irindar - Grad 6
 
 ---
 

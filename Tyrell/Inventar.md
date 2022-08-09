@@ -1,4 +1,4 @@
-# Tyrell von Craenhold - Priester des Irindar - Grad 5
+# Tyrell von Craenhold - Priester des Irindar - Grad 6
 
 ---
 
@@ -23,6 +23,8 @@
 - Wolfsmaske mit Umhang (Wandbehang) zum Durchblicken (Reichweite 500km)
 - Heiltrunk
 - Krafttrunk
+- Unsichtbarkeitstrunk von Fraika
+- 3L Weihwasser (2W6LP+AP Dämonen und Untote)
 
 ---
 
