@@ -61,4 +61,8 @@
 |            | 4715 |  9   |  0   |  27  | Menschenkenntnis +4                     |
 |            | 4815 |  9   |  0   |  7   | Erste Hilfe +9 (1PP)                    |
 | 13.02.2419 | 4815 |  17  |  6   | 139  | **Feuerstern**                          |
+|            | 4915 |  17  |  0   | 125  | Menschenkenntnis +5 (1PP)               |
+|            | 5015 |  17  |  0   | 105  | Zauberkunde +9 (1PP)                    |
+|            | 5215 |  17  |  0   |  38  | Heilen von Krankheit                    |
+|            | 5315 |  17  |  0   |  4   | Rost                                    |
 |            |      |      |      |      |                                         |
