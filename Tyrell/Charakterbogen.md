@@ -54,7 +54,7 @@ Stand: Volk, Beruf: Wundheiler, Heimat: Alba, Glaube: Irindar
 | **Klettern**                         |     +12     |  +0   |    +12     |              |
 | Landeskunde Alba (Heimat)            |    +(8)     |       |    +(8)    |              |
 | **Lesen von Zauberschrift**          |     +14     |  +0   |    +14     |              |
-| **Menschenkenntnis**                 |     +4      |  +0   |     +4     |      1       |
+| **Menschenkenntnis**                 |     +5      |  +0   |     +5     |              |
 | Meucheln / Betäuben                  |   +(0/6)    |       |   +(0/6)   |              |
 | Naturkunde                           |    +(0)     |       |    +(0)    |              |
 | Pflanzenkunde                        |    +(0)     |       |    +(0)    |              |
@@ -91,7 +91,7 @@ Stand: Volk, Beruf: Wundheiler, Heimat: Alba, Glaube: Irindar
 | Wahrnehmung                          |    +(2)     |       |    +(2)    |              |
 | Werfen                               |    +(4)     |       |    +(4)    |              |
 | Winden                               |    +(0)     |       |    +(0)    |              |
-| **Zauberkunde**                      |     +8      |  +0   |     +8     |      1       |
+| **Zauberkunde**                      |     +9      |  +0   |     +9     |              |
 
 ## Waffenfertigkeiten
 

@@ -146,6 +146,49 @@ Grad 7-9 2W6 x 10sec wehrlos, ab Grad 10 1W6 x 10sec -2 auf alle EW.
 
 ### Heilen schwerer Wunden
 
+Gestenzauber der Stufe 3
+Erschaffen: Holz => Erde
+
+**AP-Verbrauch:** 4  
+**Zauberdauer:** 10min  
+**Reichweite:** Berührung  
+**Wirkungsziel:** Körper  
+**Wirkungsbereich:** 1 Wesen  
+**Wirkungsdauer:** 0  
+**Ursprung:** druidisch
+
+Wirkt wie Heilen von Wunden, aber gibt 2W6 LP und AP zurück. Kann nur alle 3 Tage auf einen Abenteurer angewendet werden. Kann aber mit Heilen von Wunden kombiniert werden.
+
+### Heilen von Krankheiten
+
+Gestenzauber der Stufe 2
+Zerstören: Holz => Eis
+
+**AP-Verbrauch:** 2  
+**Zauberdauer:** 10min  
+**Reichweite:** Berührung  
+**Wirkungsziel:** Körper  
+**Wirkungsbereich:** 1 Wesen  
+**Wirkungsdauer:** 0  
+**Ursprung:** druidisch
+
+Der Zauberer kann natürliche und magische Krankheiten heilen. Die Heilung erfolgt nicht sofort, sondern sie wird beendet und der Genesungsprozess kann starten. Dem Zauberer steht nur ein Versuch zu, einen Kranken zu heilen.
+
+### Rost
+
+Gestenzauber der Stufe 1
+Verändern: Eis => Metall
+
+**AP-Verbrauch:** 2  
+**Zauberdauer:** 1sec  
+**Reichweite:** 15m  
+**Wirkungsziel:** Umgebung  
+**Wirkungsbereich:** 1 Objekt  
+**Wirkungsdauer:** 0  
+**Ursprung:** dämonisch
+
+Von diesem Spruch betroffene Gegenstände aus unedlen Metallen beginnen mit 10% pro Grad des Zauberers sehr schnell zu verrotten. Wird der Gegenstand von einer Kreatur getragen, so steht ihr ein WW:Resistenz zu. Bei Metallrüstung fängt 1 LP pro Schaden weniger auf. Waffe erhält -2 auf EW:Angriff und krit. fehler lässt die Waffe zerbrechen. Verteidigungswaffe erhält -2 auf WW:Abwehr. Metalltür -20 auf Kraftakt. AP-Kosten können mit der Größe des Objekts steigen.
+
 ---
 
 Auswirkung von einem kritischen Misserfolg: -4 bei Wundertaten

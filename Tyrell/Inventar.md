@@ -23,7 +23,7 @@
 - Wolfsmaske mit Umhang (Wandbehang) zum Durchblicken (Reichweite 500km)
 - Heiltrunk
 - Krafttrunk
-- Unsichtbarkeitstrunk von Fraika
+- Unsichtbarkeitstrunk von Farika
 - 3L Weihwasser (2W6LP+AP Dämonen und Untote)
 
 ---
