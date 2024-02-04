@@ -1,0 +1,101 @@
+2024-01-21
+Midgard Charaktererstellung
+Halbling Händler
+Name Fridolin
+
+St 74
+Gs 64
+Gw 91
+Ko 70
+In 73
+Zt 27
+
+Au 64
+pA 90
+
+Schadensbonus +2
+Ausdauerbonus +3
+B 13
+Größe 1,13m
+Gewicht 40Kg
+Körpergröße trifft nicht zu
+Gestalt normal
+
+Rechtshänder
+
+Willenskraft 100
+Selbstbeherschung 97
+
+LP 13
+AP 8
+
+Angriffsbonus +0
+Raufen +8 1W6-2 Schaden
+Abwehrbonus +1
+Abwehr +11 +1 = +12
+
+Zauberbonus -1
+Zaubern +1
+
+Resistenz Grundwert +10 mit Bonus +15/+17/+15 (Geist,Körper,Umgebung)
+Sechster Sinn +1
+Sinne +8
+Besondere angeborene Fertigkeit
+Robustheit +9
+Schmecken +10
+Gute Reflexe +9
+
+Grad 1
+
+Stand Volk
+Glaube Kult um Leomie, Göttin der Speisen und Genusses und Peleandrin, Gott des Heims und der Gemütlichkeit
+
+
+Fachkenntnisse 10
+Waffenfertigkeiten 2
+Allgemeinwissen 5
+ungewöhnliche 2
+
+Alter fast 21 Jahren alt
+
+1 Schleichen +10
+1 Tarnen +10
+1 Geschäftstüchtigkeit +8
+1 Menschenkenntnis +5
+1 Beredsamkeit +8 +1 = +9
+2 Gassenwissen +5
+2 Schreiben Mutterschreiben Halftan +12 / Albisch +8
+1 Landeskunde Alba +5
+
+1 Dolch +5
+1 kleiner Schild +1
+
+Grundkenntnisse Stichwaffen und Schilde
+Spezialwaffe Dolch -> Dolch +7
+
+Sprache Halftan +18
+Sprache Albisch +12
+
+3 Erste Hilfe +6
+2 Reiten +10 +1 = +11
+
+2 Himmelskunde +4
+
+Beruf Akrobat
+Akrobatik +10 +1 = +11
+
+Ungelernte Fähigkeiten
+Überleben Gebirge (+6)
+Landeskunde Halfdal (+8)
+
+Inventar:
+Rucksack
+Kleidung
+Lederbeutel
+Lederrüstung -2 LP-Verlust
+Dolch
+Dolch versteckt im Unterarm
+kl. Schild
+12GS
+Erste-Hilfe-Set
+
