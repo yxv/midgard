@@ -2,7 +2,8 @@
 
 ---
 
-Geburtsdatum: 00.00.0000, rechtshändig, Spezies: Halbling  
+Spezies: Halbling  
+Geburtsdatum: 00.00.0000, rechtshändig  
 Größe: 113cm, Gewicht: 40kg (normal)  
 Stand: Volk, Beruf: Akrobat, Heimat: Halfdal  
 Glaube: Kult um Leomie, Göttin der Speisen und Genusses und Peleandrin, Gott des Heims und der Gemütlichkeit
@@ -35,78 +36,99 @@ Glaube: Kult um Leomie, Göttin der Speisen und Genusses und Peleandrin, Gott de
 
 **AP** 8
 
+## gelernte Fertigkeiten
+
+| Fertigkeit           | Erfolgswert (Bonus) |
+| -------------------- | ------------------- |
+| Akrobatik            | +10 (+1) = +11      |
+| Beredsamkeit         | +8 (+1) = +9        |
+| Erste Hilfe          | +6                  |
+| Gassenwissen         | +5                  |
+| Geschäftstüchtigkeit | +8                  |
+| Himmelskunde         | +4                  |
+| Landeskunde Alba     | +5                  |
+| Menschenkenntnis     | +5                  |
+| Reiten               | +10 (+1) = +11      |
+| Schleichen           | +10                 |
+| Sprache Halftan      | +18                 |
+| Schreiben Halftan    | +12                 |
+| Sprache Albisch      | +12                 |
+| Schreiben Albisch    | +8                  |
+| Tarnen               | +10                 |
+
 ## ungelernte Fertigkeiten
 
-| Fertigkeit                           | Erfolgswert | Bonus | Gesamtwert | Praxispunkte |
-| ------------------------------------ | :---------: | :---: | :--------: | :----------: |
-| Akrobatik                            |    +(8)     |       |    +(8)    |              |
-| Balancieren                          |    +(8)     |       |    +(8)    |              |
-| Baukunde                             |    +(0)     |       |    +(0)    |              |
-| Beredsamkeit                         |    +(3)     |       |    +(3)    |              |
-| Beschatten                           |    +(3)     |       |    +(3)    |              |
-| Erzählen                             |    +(4)     |       |    +(4)    |              |
-| Fallen entdecken                     |    +(0)     |       |    +(0)    |              |
-| Fallenstellen                        |    +(1)     |       |    +(1)    |              |
-| Fallenmechanik                       |    +(0)     |       |    +(0)    |              |
-| Fangen                               |    +(8)     |       |    +(8)    |              |
-| Geheimmechanismus öffnen             |    +(1)     |       |    +(1)    |              |
-| Geländelauf                          |    +(8)     |       |    +(8)    |              |
-| Kampftaktik                          |    +(5)     |       |    +(5)    |              |
-| Klettern                             |    +(8)     |       |    +(8)    |              |
-| Landeskunde                          |    +(8)     |       |    +(8)    |              |
-| Menschenkenntnis                     |    +(3)     |       |    +(3)    |              |
-| Meucheln                             |   +(0/6)    |       |   +(0/6)   |              |
-| Naturkunde                           |    +(0)     |       |    +(0)    |              |
-| Pflanzenkunde                        |    +(0)     |       |    +(0)    |              |
-| Reiten                               |    +(5)     |       |    +(5)    |              |
-| Rudern                               |    +(3)     |       |    +(3)    |              |
-| Sagenkunde                           |    +(0)     |       |    +(0)    |              |
-| Schleichen                           |    +(3)     |       |    +(3)    |              |
-| Schlittenfahren                      |    +(3)     |       |    +(3)    |              |
-| Schlösser öffnen                     |    +(0)     |       |    +(0)    |              |
-| Schwimmen                            |    +(3)     |       |    +(3)    |              |
-| Seilkunst                            |    +(4)     |       |    +(4)    |              |
-| Singen                               |    +(4)     |       |    +(4)    |              |
-| Springen                             |    +(8)     |       |    +(8)    |              |
-| Spurenlesen                          |    +(0)     |       |    +(0)    |              |
-| Stehlen                              |    +(3)     |       |    +(3)    |              |
-| Suchen                               |    +(3)     |       |    +(3)    |              |
-| Tanzen                               |    +(8)     |       |    +(8)    |              |
-| Tarnen                               |    +(3)     |       |    +(3)    |              |
-| Tauchen                              |    +(9)     |       |    +(9)    |              |
-| Tierkunde                            |    +(0)     |       |    +(0)    |              |
-| Trinken +(Ko/10)                     |    +(7)     |       |    +(7)    |              |
-| Überleben                            |    +(6)     |       |    +(6)    |              |
-| Verbergen                            |    +(3)     |       |    +(3)    |              |
-| Verführen                            |    +(3)     |       |    +(3)    |              |
-| Verhören                             |    +(3)     |       |    +(3)    |              |
-| Verkleiden                           |    +(5)     |       |    +(5)    |              |
-| Wagenlenken                          |    +(3)     |       |    +(3)    |              |
-| Wahrnehmung                          |    +(2)     |       |    +(2)    |              |
-| Werfen                               |    +(4)     |       |    +(4)    |              |
-| Winden                               |    +(0)     |       |    +(0)    |              |
-| Zauberkunde                          |    +(0)     |       |    +(0)    |              |
+| Fertigkeit               | Erfolgswert |
+| ------------------------ | ----------- |
+| Balancieren              | +(8)        |
+| Baukunde                 | +(0)        |
+| Beredsamkeit             | +(3)        |
+| Beschatten               | +(3)        |
+| Erzählen                 | +(4)        |
+| Fallen entdecken         | +(0)        |
+| Fallenstellen            | +(1)        |
+| Fallenmechanik           | +(0)        |
+| Fangen                   | +(8)        |
+| Geheimmechanismus öffnen | +(1)        |
+| Geländelauf              | +(8)        |
+| Kampftaktik              | +(5)        |
+| Klettern                 | +(8)        |
+| Landeskunde (Halfdal)    | +(8)        |
+| Meucheln                 | +(0/6)      |
+| Naturkunde               | +(0)        |
+| Pflanzenkunde            | +(0)        |
+| Reiten                   | +(5)        |
+| Rudern                   | +(3)        |
+| Sagenkunde               | +(0)        |
+| Schlittenfahren          | +(3)        |
+| Schlösser öffnen         | +(0)        |
+| Schwimmen                | +(3)        |
+| Seilkunst                | +(4)        |
+| Singen                   | +(4)        |
+| Springen                 | +(8)        |
+| Spurenlesen              | +(0)        |
+| Stehlen                  | +(3)        |
+| Suchen                   | +(3)        |
+| Tanzen                   | +(8)        |
+| Tauchen                  | +(9)        |
+| Tierkunde                | +(0)        |
+| Trinken +(Ko/10)         | +(7)        |
+| Überleben (Gebirge)      | +(6)        |
+| Verbergen                | +(3)        |
+| Verführen                | +(3)        |
+| Verhören                 | +(3)        |
+| Verkleiden               | +(5)        |
+| Wagenlenken              | +(3)        |
+| Wahrnehmung              | +(2)        |
+| Werfen                   | +(4)        |
+| Winden                   | +(0)        |
+| Zauberkunde              | +(0)        |
+
+## angeborene Fertigkeiten
+
+| Fertigkeit   | Erfolgswert |
+| ------------ | ----------- |
+| Gute Reflexe | +9          |
+| Robustheit   | +9          |
+| Schmecken    | +10         |
 
 ## Waffenfertigkeiten
 
-**Grundkenntnisse** Stichwaffen, Spießwaffen, Schilde
+**Grundkenntnisse** Stichwaffen und Schilde
+**Spezialwaffe** Dolch
 
-| Fertigkeit    |      Erfolgswert      | Bonus | Gesamtwert | Praxispunkte |
-| ------------- | :-------------------: | :---: | :--------: | :----------: |
-| Dolch         |          +9           |  +1   |    +10     |              |
-| Stoßspeer     |          +11          |  +1   |    +12     |      2       |
-| Großes Schild | +3 / +4 mit 3er Bonus |       |            |              |
+| Fertigkeit     | Erfolgswert (Bonus) | Praxispunkte |
+| -------------- | ------------------- | ------------ |
+| Dolch          | +7                  |              |
+| kleiner Schild | +1                  |              |
 
 ## Waffen
 
-**Rüstung** Lederrüstung mit Helm, Nackenschutz, Arm- und Beinschienen (-2 LP-Verlust)
+**Rüstung** Lederrüstung (-2 LP-Verlust)
 
-|                Waffe                |    Angriff / Abwehr    | Schaden |  WR  |
-| :---------------------------------: | :--------------------: | :-----: | :--: |
-|          waffenloser Kampf          |           +4           |  1W6-1  |  +2  |
-|                Dolch                |          +10           |  1W6+3  |      |
-| geweihter Stoßspeer (nicht magisch) |          +12           |  1W6+4  |  +2  |
-|            Sturmangriff             |          +12           |  2W6+4  |      |
-|         Abwehr ohne Schild          |          +15           |         |      |
-|    Großes Schild (Speer Symbol)     | +18 / +19 mit 3erBonus |         |      |
+| Waffe                 | Angriff / Abwehr | Schaden |
+| --------------------- | ---------------- | ------- |
+| Dolch                 | +7               |         |
+| Abwehr ohne Schild    | +12              |         |
+| Abwehr mit kl. Schild | +13              |         |
 
