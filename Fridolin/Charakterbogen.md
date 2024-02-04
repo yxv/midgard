@@ -107,6 +107,7 @@ Glaube: Kult um Leomie, Göttin der Speisen und Genusses und Peleandrin, Gott de
 ## Waffenfertigkeiten
 
 **Grundkenntnisse** Stichwaffen und Schilde
+
 **Spezialwaffe** Dolch
 
 | Fertigkeit     | Erfolgswert (Bonus) | Praxispunkte |
