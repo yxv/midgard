@@ -104,14 +104,6 @@ Glaube: Kult um Leomie, Göttin der Speisen und Genusses und Peleandrin, Gott de
 | Winden                   | +(0)        |
 | Zauberkunde              | +(0)        |
 
-## angeborene Fertigkeiten
-
-| Fertigkeit   | Erfolgswert |
-| ------------ | ----------- |
-| Gute Reflexe | +9          |
-| Robustheit   | +9          |
-| Schmecken    | +10         |
-
 ## Waffenfertigkeiten
 
 **Grundkenntnisse** Stichwaffen und Schilde
