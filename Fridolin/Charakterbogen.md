@@ -16,11 +16,11 @@ Glaube: Kult um Leomie, Göttin der Speisen und Genusses und Peleandrin, Gott de
 
 | Au  | pA  | Wk  | Sb  | GiT |  B  |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 64  | 90  | 100 | 97  |     | 13  |
+| 64  | 90  | 100 | 97  | 65  | 13  |
 
-**Angeborene Fertigkeiten** Alle Sinne +8, Sechster Sinn +1, Robustheit +9, Schmecken +10, Gute Reflexe +9
+**Angeborene Fertigkeiten** Sehen +8, Hören +8, Riechen +8, Schmecken +10, Tasten +8, Sechster Sinn +1, Robustheit +9, Gute Reflexe +9, Raufen +8
 
-**Last** Normal ?kg, Höchst ?kg, Schub ?kg
+**Last** Normal 15kg, Höchst 65kg, Schub 140kg
 
 **Abwehr** +11 Bonus +1 => +12
 
@@ -36,6 +36,8 @@ Glaube: Kult um Leomie, Göttin der Speisen und Genusses und Peleandrin, Gott de
 
 **AP** 8
 
+**Alkoholgrenze** 5
+
 ## gelernte Fertigkeiten
 
 | Fertigkeit           | Erfolgswert (Bonus) |
@@ -49,12 +51,12 @@ Glaube: Kult um Leomie, Göttin der Speisen und Genusses und Peleandrin, Gott de
 | Landeskunde Alba     | +5                  |
 | Menschenkenntnis     | +5                  |
 | Reiten               | +10 (+1) = +11      |
-| Schleichen           | +10                 |
+| Schleichen           | +10 (+1) = +11      |
 | Sprache Halftan      | +18                 |
 | Schreiben Halftan    | +12                 |
 | Sprache Albisch      | +12                 |
 | Schreiben Albisch    | +8                  |
-| Tarnen               | +10                 |
+| Tarnen               | +10 (+1) = +11      |
 
 ## ungelernte Fertigkeiten
 
@@ -121,7 +123,7 @@ Glaube: Kult um Leomie, Göttin der Speisen und Genusses und Peleandrin, Gott de
 
 | Waffe                 | Angriff / Abwehr | Schaden |
 | --------------------- | ---------------- | ------- |
-| Dolch                 | +7               |         |
+| Dolch                 | +7               |  1W6+1  |
 | Abwehr ohne Schild    | +12              |         |
 | Abwehr mit kl. Schild | +13              |         |
 
