@@ -1,11 +1,11 @@
-# Fridolin - Händler - Grad 1
+# Fridolin Dandelin - Händler - Grad 3
 
 ---
 
 Spezies: Halbling  
-Geburtsdatum: 00.00.0000, rechtshändig  
+Geburtsdatum: 05.04.2399, rechtshändig  
 Größe: 113cm, Gewicht: 40kg (normal)  
-Stand: Volk, Beruf: Akrobat, Heimat: Halfdal  
+Stand: Volk, Beruf: Akrobat, Heimat: Halfdal, Dorf Valbron  
 Glaube: Kult um Leomie, Göttin der Speisen und Genusses und Peleandrin, Gott des Heims und der Gemütlichkeit
 
 ## Stammdaten
@@ -22,19 +22,19 @@ Glaube: Kult um Leomie, Göttin der Speisen und Genusses und Peleandrin, Gott de
 
 **Last** Normal 15kg, Höchst 65kg, Schub 140kg
 
-**Abwehr** +11 Bonus +1 => +12
+**Abwehr** +12 Bonus +1 => +13
 
-**Resistenz** +10 Bonus +5 / +7 / +5 => +15 / +17 / +15 (Geist / Körper / Umgebung)
+**Resistenz** +11 Bonus +5 / +7 / +5 => +16 / +18 / +16 (Geist / Körper / Umgebung)
 
 **Zaubern** +2 Bonus -1 => +1
 
 **Boni** Ausdauer +3 Schaden +2 Angriff +0
 
-**Gunst und Gnade** Schicksalsgunst 0 Göttliche Gnade 0
+**Gunst und Gnade** Schicksalsgunst 2 Göttliche Gnade 0
 
 **LP** 13
 
-**AP** 8
+**AP** 9
 
 **Alkoholgrenze** 5
 
@@ -46,17 +46,19 @@ Glaube: Kult um Leomie, Göttin der Speisen und Genusses und Peleandrin, Gott de
 | Beredsamkeit         | +8 (+1) = +9        |
 | Erste Hilfe          | +6                  |
 | Gassenwissen         | +5                  |
-| Geschäftstüchtigkeit | +8                  |
-| Himmelskunde         | +4                  |
+| Geschäftstüchtigkeit | +9                  |
+| Himmelskunde         | +11                 |
 | Landeskunde Alba     | +5                  |
-| Menschenkenntnis     | +5                  |
-| Reiten               | +10 (+1) = +11      |
+| Menschenkenntnis     | +7                  |
+| Reiten               | +12 (+1) = +13      |
 | Schleichen           | +10 (+1) = +11      |
 | Sprache Halftan      | +18                 |
 | Schreiben Halftan    | +12                 |
 | Sprache Albisch      | +12                 |
 | Schreiben Albisch    | +8                  |
 | Tarnen               | +10 (+1) = +11      |
+| Schauspielern        | +8 (+1) = +9        |
+| Klettern             | +11                 |
 
 ## ungelernte Fertigkeiten
 
@@ -74,12 +76,10 @@ Glaube: Kult um Leomie, Göttin der Speisen und Genusses und Peleandrin, Gott de
 | Geheimmechanismus öffnen | +(1)        |
 | Geländelauf              | +(8)        |
 | Kampftaktik              | +(5)        |
-| Klettern                 | +(8)        |
 | Landeskunde (Halfdal)    | +(8)        |
 | Meucheln                 | +(0/6)      |
 | Naturkunde               | +(0)        |
 | Pflanzenkunde            | +(0)        |
-| Reiten                   | +(5)        |
 | Rudern                   | +(3)        |
 | Sagenkunde               | +(0)        |
 | Schlittenfahren          | +(3)        |
@@ -114,8 +114,9 @@ Glaube: Kult um Leomie, Göttin der Speisen und Genusses und Peleandrin, Gott de
 
 | Fertigkeit     | Erfolgswert (Bonus) | Praxispunkte |
 | -------------- | ------------------- | ------------ |
-| Dolch          | +7                  |              |
+| Dolch          | +10                 |              |
 | kleiner Schild | +1                  |              |
+| großer Schild  | +2                  |              |
 
 ## Waffen
 
@@ -123,7 +124,7 @@ Glaube: Kult um Leomie, Göttin der Speisen und Genusses und Peleandrin, Gott de
 
 | Waffe                 | Angriff / Abwehr | Schaden |
 | --------------------- | ---------------- | ------- |
-| Dolch                 | +7               |  1W6+1  |
-| Abwehr ohne Schild    | +12              |         |
-| Abwehr mit kl. Schild | +13              |         |
+| magischer Dolch +2/+0 | +12              |  1W6+1  |
+| Abwehr ohne Schild    | +13              |         |
+| mag. gr. Schild +1    | +16              |         |
 
