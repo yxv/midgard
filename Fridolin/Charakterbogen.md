@@ -34,7 +34,7 @@ Glaube: Kult um Leomie, Göttin der Speisen und Genusses und Peleandrin, Gott de
 
 **LP** 13
 
-**AP** 9
+**AP** 13
 
 **Alkoholgrenze** 5
 
@@ -45,7 +45,7 @@ Glaube: Kult um Leomie, Göttin der Speisen und Genusses und Peleandrin, Gott de
 | Akrobatik            | +10 (+1) = +11      |
 | Beredsamkeit         | +8 (+1) = +9        |
 | Erste Hilfe          | +6                  |
-| Gassenwissen         | +5                  |
+| Gassenwissen         | +6                  |
 | Geschäftstüchtigkeit | +9                  |
 | Himmelskunde         | +11                 |
 | Landeskunde Alba     | +5                  |
