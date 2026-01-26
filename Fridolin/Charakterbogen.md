@@ -1,4 +1,4 @@
-# Fridolin Dandelin - Händler - Grad 3
+# Fridolin Dandelin - Händler - Grad 5
 
 ---
 
@@ -12,7 +12,7 @@ Glaube: Kult um Leomie, Göttin der Speisen und Genusses und Peleandrin, Gott de
 
 | St  | Gs  | Gw  | Ko  | In  | Zt  |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 74  | 64  | 91  | 70  | 73  | 27  |
+| 74  | 64  | 91  | 70  | 73  | 29  |
 
 | Au  | pA  | Wk  | Sb  | GiT |  B  |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -22,19 +22,19 @@ Glaube: Kult um Leomie, Göttin der Speisen und Genusses und Peleandrin, Gott de
 
 **Last** Normal 15kg, Höchst 65kg, Schub 140kg
 
-**Abwehr** +12 Bonus +1 => +13
+**Abwehr** +13 Bonus +1 => +14
 
-**Resistenz** +11 Bonus +5 / +7 / +5 => +16 / +18 / +16 (Geist / Körper / Umgebung)
+**Resistenz** +12 Bonus +5 / +7 / +5 => +17 / +19 / +17 (Geist / Körper / Umgebung)
 
 **Zaubern** +2 Bonus -1 => +1
 
 **Boni** Ausdauer +3 Schaden +2 Angriff +0
 
-**Gunst und Gnade** Schicksalsgunst 2 Göttliche Gnade 0
+**Gunst und Gnade** Schicksalsgunst 3 Göttliche Gnade 0
 
 **LP** 13
 
-**AP** 13
+**AP** 21
 
 **Alkoholgrenze** 5
 
@@ -42,20 +42,25 @@ Glaube: Kult um Leomie, Göttin der Speisen und Genusses und Peleandrin, Gott de
 
 | Fertigkeit           | Erfolgswert (Bonus) |
 | -------------------- | ------------------- |
-| Akrobatik            | +10 (+1) = +11      |
-| Beredsamkeit         | +8 (+1) = +9        |
+| Akrobatik            | +11 (+1) = +12      |
+| Balancieren          | +11 (+1) = +12      |
+| Beredsamkeit         | +9 (+1) = +10       |
 | Erste Hilfe          | +6                  |
 | Gassenwissen         | +6                  |
-| Geschäftstüchtigkeit | +9                  |
+| Geschäftstüchtigkeit | +10                 |
 | Himmelskunde         | +11                 |
 | Landeskunde Alba     | +5                  |
-| Menschenkenntnis     | +7                  |
+| Menschenkenntnis     | +8                  |
+| Rechnen              | +10 (-2) = +8       |
 | Reiten               | +12 (+1) = +13      |
+| Schätzen             | +10                 |
 | Schleichen           | +10 (+1) = +11      |
 | Sprache Halftan      | +18                 |
 | Schreiben Halftan    | +12                 |
 | Sprache Albisch      | +12                 |
-| Schreiben Albisch    | +8                  |
+| Schreiben Albisch    | +14                 |
+| Schwimmen            | +10 (+1) = +11      |
+| Suchen               | +9                  |
 | Tarnen               | +10 (+1) = +11      |
 | Schauspielern        | +8 (+1) = +9        |
 | Klettern             | +11                 |
@@ -64,9 +69,7 @@ Glaube: Kult um Leomie, Göttin der Speisen und Genusses und Peleandrin, Gott de
 
 | Fertigkeit               | Erfolgswert |
 | ------------------------ | ----------- |
-| Balancieren              | +(8)        |
 | Baukunde                 | +(0)        |
-| Beredsamkeit             | +(3)        |
 | Beschatten               | +(3)        |
 | Erzählen                 | +(4)        |
 | Fallen entdecken         | +(0)        |
@@ -84,13 +87,11 @@ Glaube: Kult um Leomie, Göttin der Speisen und Genusses und Peleandrin, Gott de
 | Sagenkunde               | +(0)        |
 | Schlittenfahren          | +(3)        |
 | Schlösser öffnen         | +(0)        |
-| Schwimmen                | +(3)        |
 | Seilkunst                | +(4)        |
 | Singen                   | +(4)        |
 | Springen                 | +(8)        |
 | Spurenlesen              | +(0)        |
 | Stehlen                  | +(3)        |
-| Suchen                   | +(3)        |
 | Tanzen                   | +(8)        |
 | Tauchen                  | +(9)        |
 | Tierkunde                | +(0)        |
@@ -114,17 +115,17 @@ Glaube: Kult um Leomie, Göttin der Speisen und Genusses und Peleandrin, Gott de
 
 | Fertigkeit     | Erfolgswert (Bonus) | Praxispunkte |
 | -------------- | ------------------- | ------------ |
-| Dolch          | +10                 |              |
+| Dolch          | +11                 |              |
 | kleiner Schild | +1                  |              |
-| großer Schild  | +2                  |              |
+| großer Schild  | +3                  |              |
 
 ## Waffen
 
-**Rüstung** Lederrüstung (-2 LP-Verlust)
+**Rüstung** Lederrüstung (-2 LP-Verlust) Helm, Armschienen, Beinschienen, Halskrause
 
 | Waffe                 | Angriff / Abwehr | Schaden |
 | --------------------- | ---------------- | ------- |
-| magischer Dolch +2/+0 | +12              |  1W6+1  |
-| Abwehr ohne Schild    | +13              |         |
-| mag. gr. Schild +1    | +16              |         |
-
+| magischer Dolch +2/+0 | +13              |  1W6+1  |
+| normaler Dolch        | +11              |  1W6+1  |
+| Abwehr ohne Schild    | +14              |         |
+| mag. gr. Schild +1    | +18              |         |
